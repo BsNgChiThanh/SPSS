@@ -1,7 +1,7 @@
 # SPSS
 SPSS là một phần mềm thống kê khá nổi tiếng
 
-[Trang chủ IBM SPSS](https://github.com/BsNgChiThanh/SPSS)
+[Trang chủ IBM SPSS](https://www.ibm.com/analytics/spss-trials)
 
 ![1](https://user-images.githubusercontent.com/82578024/165245052-12c25537-d3a4-4012-9cb2-fe2581d492ce.jpg)
 
