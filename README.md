@@ -25,7 +25,7 @@ Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0
 
 Restart lại máy tính là ok
 
-Các version khác cài tương tự.
+### Các version khác cài tương tự ###
 
 [Thay đổi ngôn ngữ trong SPSS](https://bsthanh-my.sharepoint.com/:w:/g/personal/0914678254_bsthanh_tk/EeDfMJrgaqNKjY3nf-hGWwUBxlmG-46gNHtIeNBAxO5_8A?e=B8M68y)
 
