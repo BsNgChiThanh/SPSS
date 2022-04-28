@@ -31,7 +31,7 @@ Restart lại máy tính là ok
 
 [Hướng dẫn sử dụng phần mềm SPSS bấm vào đây](https://bsthanh-my.sharepoint.com/:b:/g/personal/0914678254_bsthanh_tk/EZ9j5gox7xhKh5wrTcOSIFoB_YEwkyuQSxmVsnV63uPZYA?e=fAdJYX)
 
-## HƯỚNG DẪN SỬ DỤNG SPSS TRONG NGHIÊN CỨU KHOA HỌC ([Lấy từ trang Phạm Lộc Blog](https://www.hocviendaotao.com/2020/01/chuoi-video-huong-dan-su-dung-spss.html)) ##
+## HƯỚNG DẪN SỬ DỤNG SPSS TRONG NGHIÊN CỨU KHOA HỌC ([Lấy từ trang Phạm Lộc Blog](https://www.phamlocblog.com/)) ##
 
 ### Phần 1: Bảy thuật ngữ thống kê trong nghiên cứu: ###
 
@@ -82,17 +82,29 @@ Restart lại máy tính là ok
 2. Hai giá trị phân biệt và hội tụ trong EFA
 3. Thực hiện phân tích yếu tố khám phá EFA trên SPSS
 
+[Xem Video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/EZbeTauoAt1Omxn0wGLPR4UBj40lXwpCr8juobWzafoIhQ?e=xQHDKg)
 
+### Phần 6: Phân tích tương quan Pearson ###
 
+[Xem video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/ERGsApx6zL9PpXTdsCC5X-AB-AhItEwCw8Lr7Gnt4KF3vQ?e=BJMQEl)
 
+### Phân tích hồi qui đa biến ###
 
+1. Nhiệm vụ của hồi qui đa biến
+2. Cách thực hiện hồi qui đa biến trên SPSS
+3. Các chỉ số cần đọc trong kết quả hồi qui.
 
+[Xem Video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/Eci8KqHhmedJsoIJteTyztgBKaPKE_em9I9RDTgF4iwEnA?e=iG0rbN)
 
+### Kiểm định ANOVA, T-Test ##
 
+1. Trường hợp nào sử dụng ANOVA, trường hợp nào sử dụng T-Test
+2. Cách thực hiện và một số lưu ý
 
+[Xem Video Phân tích khác biệt trung bình One-way ANOVA trong SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/ETw-nm5hIxFCgsnNuZ9vBmIB-lwMOmgSdOqvc8UIIMRTMQ?e=sWhxjq)
 
+[Xem Video Phân tích One Sample T-Test trên SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/EdeFKwu3mGxBhO4DBed3CHsBZui9aE52kW6jF0Y0_QRVnQ?e=DAdG6J)
 
+[Xem Video Phân tích Independent Sample T-Test trên SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/EXe1CGmaWC1GjLlWwStznBABb9q-2B7Hz9KNpDoc9nPWHA?e=bKZdmR)
 
-
-
-
+### [Tài liệu thao khảo, học chay nhé, có file Word mà mất file dữ liệu spss rồi](https://bsthanh-my.sharepoint.com/:w:/g/personal/0914678254_bsthanh_tk/EZR_US6TKftBpUO0_jylb_sBKOItbfO4n-QhqhnvzDULNQ?e=i5DEyU)
