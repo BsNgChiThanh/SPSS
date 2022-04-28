@@ -78,7 +78,11 @@ Restart lại máy tính là ok
 
 ### Phần 5: Phân tích nhân tố khám phá EFA ###
 
-Tiếp tục cập nhật
+1. Phân tích yếu tố khám phá EFA là gì?
+2. Hai giá trị phân biệt và hội tụ trong EFA
+3. Thực hiện phân tích yếu tố khám phá EFA trên SPSS
+
+
 
 
 
