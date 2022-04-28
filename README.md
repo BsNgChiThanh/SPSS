@@ -70,7 +70,7 @@ Restart lại máy tính là ok
 
 [Xem video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/EU5oR4joNH9Mouh_IlnXRfkByDqyrPZf6wU4V9_0AuKvZg?e=j7Z3kZ)
 
-### Phần 4: Kiểm định độ tin cậy thang đo Cronbach"s Alpha ###
+### Phần 4: Kiểm định độ tin cậy thang đo Cronbach's Alpha ###
 
 [Video 1](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/EYhOqdiddpRLofB0YkJmIm0Bf5imhkRtvHqRzIIxWM7CbQ?e=TVavWm)
 
