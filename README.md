@@ -9,6 +9,8 @@ SPSS là một phần mềm thống kê khá nổi tiếng
 
 [SPSS 28 bản dùng thử, chưa có file Crack](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtIIqHAwOJhPh0YS9CFQdaABTM69xEI3b9Q4LXfDnt2vBg?e=RYao5M)
 
+**Các bản Crack thành công 100%**
+
 [SPSS 26](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqjZGHyXOnlJvnN6QCgA0KkB73FDflwW4O43pQrKR1KKcA?e=qWsWnk)
 
 [SPSS 25](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhvRaxCXcExJuvsEbndv8DIBdBDEthreT7RSATXMREz9qg?e=aEIkaZ)
