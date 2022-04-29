@@ -146,7 +146,7 @@ Chương trình SPSS hiện ra
 
 **2. Truy xuất tập tin dữ liệu có sẵn:**
 
-Chọn câu lệnh: ![1](https://user-images.githubusercontent.com/82578024/165869359-acd2f5ae-40e5-4524-946a-93545be8eb7b.jpg) một họp thoại hiện ra
+Chọn câu lệnh: **File→Open→Data** một họp thoại hiện ra
 
 ![1](https://user-images.githubusercontent.com/82578024/165869538-eb18f717-36e5-4170-83c5-4f662ab0605d.jpg)
 
@@ -160,33 +160,33 @@ Biến số có thể phân loại tuỳ theo các yếu tố sau:
 
 Bản chất của biến số:
 
-Biến số thể hiện một đại lượng: là biến số định lượng (quantitative variable):
+Biến số thể hiện một đại lượng: là biến số định lượng (**quantitative variable**):
 
-•	Liên tục: Cân nặng, chiều cao...
+•	**Liên tục**: Cân nặng, chiều cao...
 
-•	Rời rạc: số trứng, số con....
+•	**Rời rạc**: số trứng, số con....
 
-Biến số nhằm thể hiện một đặc tính: là biến số định tính.
+Biến số nhằm thể hiện một **đặc tính**: là biến số **định tính**.
 
 Được chia làm 3 loại:
 
-•	Biến nhị giá - Binary variable: giới tính…
+•	**Biến nhị giá** - Binary variable: giới tính…
 
-•	Biến danh định - Nominal variable: nghề nghiệp, trình độ học vấn…
+•	**Biến danh định** - Nominal variable: nghề nghiệp, trình độ học vấn…
 
-•	Biến thứ tự - Ordinal variable: xếp loại học sinh, tình trạng kinh tế gia đình ...
+•	**Biến thứ tự** - Ordinal variable: xếp loại học sinh, tình trạng kinh tế gia đình ...
     
 Dựa vào mối tương quan giữa các
 
-•	Biến độc lập
+•	**Biến độc lập**
 
-•	Biến phụ thuộc
+•	**Biến phụ thuộc**
 
 **4.	Mã hóa số liệu:**
 
 Mục đích của việc mã hoá số liệu là chuyển đổi thông tin nghiên cứu đã thu thập thành dạng thích hợp cho việc phân tích trên máy tính. Thường thì bạn sẽ sử dụng một bộ câu hỏi hoặc biểu mẫu thu thập số liệu khác nhau để thu thập số liệu. Để đưa ra được những kết luận từ nghiên cứu của mình, bạn sẽ phải tóm tắt các kết quả của cuộc điều tra. Hầu hết các nghiên cứu đều liên quan đến một số lượng lớn các đối tượng tham gia, các thông tin từ bộ câu hỏi và các phiếu điều tra được nhập vào SPSS để cho tất cả các số liệu đã thu thập được lưu trữ và xừ lý một cách thuận tiện. Phần mềm thống kê thường có dạng bảng tính và số liệu phải được nhập vào các bảng tính này. Một bảng tính là một định nghĩa tương đối, về thực chất nó là phần hiển thị trên màn hình với những đường kẻ trong đó. Các chữ số và các ký tự có thể được đánh máy trong từng ô. Khác với những phần mềm bảng tính thông dụng như EXCEL®, các phần mềm phân tích thống kê thường có những giới hạn chặt chẽ hơn trong việc nhập liệu vào những ô này. Trong hầu hết các tệp số liệu, thông tin cho từng đối tượng quan sát được nhập trên một hàng của bảng tính. Các cột cùa bảng tính tương ứng với các câu hỏi trong bộ câu hỏi công cụ thu thập số liệu. Một câu trà lời của một đối tượng được mã trên một ô của bảng tính (ví dụ một ô = một câu trả lời và tất cả các câu trả lời cho một câu hỏi nằm trên một hàng dọc dưới cột tương ứng). Các câu trả lời nên được mã hoá bằng số càng nhiều càng tốt và ta nên hạn chế việc dùng mã bằng các ký tự.
 
-Ví dụ:
+**Ví dụ:**
 
 	Lưu ý ràng trong khi tên cột có thể là bất kỳ tên gì bạn muốn, hầu hết các phần mềm thống kê quy định chặt chẽ về độ dài và dạng. Để phù hợp, hãy dùng dấu gạch dưới vào tên biến dài hơn 8 ký tự, không để khoảng trống giữa các từ (ví dụ ‘h_id’ thay cho ‘household id'X không bắt đầu bàng một con số (cho dù ký tự số có thể dùng ở bất kỳ vị trí nào khác trong tên cột), và không bao giờ chứa các ký tự đặc biệt (*, /, 11). Nếu bạn thiết kế bộ câu hỏi một cách đúng đắn, hầu hết các bảng câu hỏi sẽ dễ dàng có thể được mã bằng chữ số.
 
@@ -204,16 +204,17 @@ Ví dụ:
 
 ![1](https://user-images.githubusercontent.com/82578024/165871330-769e0378-77f1-4c70-92e9-a9fca7858fbe.jpg)
 
-Mở cửa sổ số liệu trong SPSS, chọn Variable view ở góc dưới trái màn hình. Bạn sẽ thấy toàn bộ các tên cột từ trái qua phải ở phía trên màn hình gồm có: Name (tên biến), Type (kiểu biến), Width (Độ rộng của biến), Decimals (số thập phân), Label (nhãn biến), Values (các giá trị), Missing (giá trị khuyết), Columns (độ rộng của cột), Align (canh lề), Measure (kiểu đo lường)
+Mở cửa sổ số liệu trong SPSS, chọn Variable view ở góc dưới trái màn hình. Bạn sẽ thấy toàn bộ các tên cột từ trái qua phải ở phía trên màn hình gồm có: **Name** (tên biến), **Type** (kiểu biến), **Width** (Độ rộng của biến), **Decimals** (số thập phân), **Label** (nhãn biến), **Values** (các giá trị), **Missing** (giá trị khuyết), **Columns** (độ rộng của cột), **Align** (canh lề), **Measure** (kiểu đo lường)
 
 **2.	Đặt tên biến đầu tiên là maso ở cột Name, kiểu biến dạng số, độ rộng của biến là 8, không có số thập phân và nhãn của biến là Mã số thài phụ.** 
 
 Các biến nhập tương tự
 
+![1](https://user-images.githubusercontent.com/82578024/165920914-9b83d9d4-b0b7-4d25-9b74-029860eacd0d.jpg)
 
 **3.	Nhập số liệu:**
 
-Một bộ câu hỏi hay một biểu mẫu số liệu được mã hoá dưới dạng số, chúng cần được nhập vào máy tính để chuân bị cho phân tích số liệu. Phần nhập số liệu yêu cầu con người dùng tay và mắt để chuyển những thông tin, vì thế có thể xảy ra các lỗi đánh máy. Để hạn chế mức thấp nhất sai lầm này, có một gợi ý đưa ra là tất cả số liệu nên được nhập hai lần, mỗi lần là một người khác nhau. Bất kỳ một sự khác nhau nào giữa hai bản số liệu cũng cần phải được lưu ý và phải được kiểm tra dựa trên bản số liệu gốc hoặc nếu có thể đối chiếu với đối tượng phỏng vắn. Nhập số liệu hai lần do hai người độc lập là lý tưởng, nó sẽ làm hạn chế tối đa các lỗi khi đọc và lỗi đánh máy. Ví dụ, chữ viết tay đôi khi không dễ đọc, một người có thể đọc là ‘3’, nhưng người thứ hai có thể đọc lả 5 Sự khác nhau này sẻ được kiểm tra và mã số đúng sẽ được chọn.
+Một bộ câu hỏi hay một biểu mẫu số liệu được mã hoá dưới dạng số, chúng cần được nhập vào máy tính để chuân bị cho phân tích số liệu. Phần nhập số liệu yêu cầu con người dùng tay và mắt để chuyển những thông tin, vì thế có thể xảy ra các lỗi đánh máy. Để hạn chế mức thấp nhất sai lầm này, có một gợi ý đưa ra là tất cả số liệu nên được nhập hai lần, mỗi lần là một người khác nhau. **Bất kỳ một sự khác nhau nào giữa hai bản số liệu cũng cần phải được lưu ý và phải được kiểm tra dựa trên bản số liệu gốc hoặc nếu có thể đối chiếu với đối tượng phỏng vắn**. Nhập số liệu hai lần do hai người độc lập là lý tưởng, nó sẽ làm hạn chế tối đa các lỗi khi đọc và lỗi đánh máy. Ví dụ, chữ viết tay đôi khi không dễ đọc, một người có thể đọc là ‘3’, nhưng người thứ hai có thể đọc lả 5 Sự khác nhau này sẻ được kiểm tra và mã số đúng sẽ được chọn.
 
 Nhập số liệu hai lần tốn nhiều thời gian, và đắt tiền. Rất khó thực hiện trên thực tế và đôi khi không cần thiết nếu chương trình nhập liệu được viết và có nhiều chức năng kiểm tra quá trình nhập liệu. Dưới đây là các chiến lược nhập số liệu cho bạn lựa chọn.
 
@@ -237,13 +238,13 @@ v.	Nhập toàn bộ số liệu một lần, không kiểm tra hai lần. Khôn
 
 ![1](https://user-images.githubusercontent.com/82578024/165871850-9dc1adbe-269c-4c3a-a79a-489624435a29.jpg)
 
-Bạn đặt tên biến mới và tính giá trị cho biến đó, bạn có thể dùng các hàm tính toán ở  danh sách bên dưới Function và kết hợp dùng các toán tử
+Bạn đặt tên biến mới và tính giá trị cho biến đó, bạn có thể dùng các hàm tính toán ở  danh sách bên dưới **Function** và kết hợp dùng các toán tử
 
-b. Chọn một tập hợp nhỏ các bản ghi:
+**b. Chọn một tập hợp nhỏ các bản ghi:**
 
 Đôi khi bạn chỉ muốn xem một nhóm đối tượng nào đó chứ không phải là tất cả. Điều này sẽ phụ thuộc vào câu hỏi nghiên cứu của bạn là gì. Ví dụ, nếu bạn viết báo cáo cho một tổ chức về sức khỏe của trẻ em, bạn có thể chỉ muốn xem xét những đối tượng là trẻ em trong bộ số liệu của bạn. Nếu bạn viết báo cáo về an toàn xe, bạn có thể chỉ cần quan tâm đến những đối tượng chấn thương khi đi xe và loại trừ những đối tượng đi bộ ra khỏi phân tích. Trong bộ số liệu biến loại phương tiện phân làm 5 loại: 1 = ô tô; 2 = xe đạp; 3 = xe máy; 4 = người đi bộ; 5 = khác. Bạn cần chọn những đối tượng mà loại phương tiện không bằng 4, có nghĩa không phải người đi bộ. SPSS có thể ‘lọc’ và chọn các đối tượng mà bạn yêu cầu. Để làm được điều này dùng cú pháp ở dưới. Nhớ sử dụng phần thứ 2 của cú pháp ở dưới để loại bỏ sự lọc này và chọn lại tất cả các đối tượng cho những phân tích về sau.
 
-Dùng thực đơn lệnh ![1](https://user-images.githubusercontent.com/82578024/165872106-aac9dc4c-ae8a-48e3-b9cf-a55c4950fe9e.jpg)
+Dùng thực đơn lệnh **Data→SelectCases**
 
 ![1](https://user-images.githubusercontent.com/82578024/165872176-8aeabb76-c012-46e9-abe3-f62bf6685e3a.jpg)
 
@@ -257,9 +258,9 @@ Nhấn Continue rồi nhấn Ok là xong
 
 • Mã hóa lại một biến phân loại:
 
-Trong phiếu điều tra về cân nặng sơ sinh có các biến về trình độ học vấn, tuổi thai phụ, tuần tuổi thai, cân nặng sơ sinh, cân nặng mẹ.... Trong phân tích của mình các biến nghiên cứu không muốn có quá nhiều phân loại trình độ học vấn > (5 nhóm) và họ chỉ quan tâm đến tỷ lệ sinh con nhẹ cân ở các bà mẹ có trình độ học vấn thuộc 3 nhóm từ cấp 1 trở xuống, từ hết cấp 1 đến hết cấp 2 và trên cấp 2. Họ muốn tạo ra các biến mới mà có ít phân loại hơn. Để làm được điều này họ có thể tạo nên các biến mới bằng cách gộp các phân loại hiện tại, và kết hợp một số phân loại với nhau, tạo ra một biến trình độ học vấn hvan_gr với 3 loại, và một biến nhecan (gồm 2 nhóm nhẹ cân: nhẹ cân và không nhẹ cân).
+Trong phiếu điều tra về cân nặng sơ sinh có các biến về trình độ học vấn, tuổi thai phụ, tuần tuổi thai, cân nặng sơ sinh, cân nặng mẹ.... Trong phân tích của mình các biến nghiên cứu không muốn có quá nhiều phân loại trình độ học vấn > (5 nhóm) và họ chỉ quan tâm đến tỷ lệ sinh con nhẹ cân ở các bà mẹ có trình độ học vấn thuộc 3 nhóm từ cấp 1 trở xuống, từ hết cấp 1 đến hết cấp 2 và trên cấp 2. Họ muốn tạo ra các biến mới mà có ít phân loại hơn. Để làm được điều này họ có thể tạo nên các biến mới bằng cách gộp các phân loại hiện tại, và kết hợp một số phân loại với nhau, tạo ra một biến trình độ học vấn hvan_gr với 3 loại, và một biến nhecan (gồm 2 nhóm nhẹ cân: **nhẹ cân** và **không nhẹ cân**).
 
-Dùng menu lệnh: **Transform/ Recode:**
+Dùng menu lệnh: **Transform/ Recode**:
 
 Nếu chọn **Into same variables...** mã hóa lại giá trị của một biến và kết quả mới sẽ được lưu đè lên biến đó. Khi đó, cửa sổ sau hiện ra, bạn chọn biến cần nhóm, chẳng hạn chọn biến **Education:**
 
@@ -273,7 +274,7 @@ Nhấn nút **Old and New Values…** để chọn giá trị nhóm, cửa sổ 
 
 -	Sau đó nhập giá trị mới, đại diện cho cả nhóm đó vào ô **Value** ở phần **New value**
 
--	Nhấn nút Add và tiếp tục làm với các phân nhóm tiếp theo
+-	Nhấn nút **Add** và tiếp tục làm với các phân nhóm tiếp theo
 
 Nếu chọn into **different variables** nghĩa là bạn sẽ thực hiện mã hoá một biến nhưng kết qủa mã hoá được lưu vào một biến khác và giá trị “gốc” vẫn được giữ nguyên.
 
@@ -287,7 +288,7 @@ Nhấn nút **Old and New Values...** để thực hiện mã hoá (phân nhóm)
 
 ![1](https://user-images.githubusercontent.com/82578024/165873416-79a5f778-165c-4f55-b9c9-74a5a329291a.jpg)
 
-Hộp ![1](https://user-images.githubusercontent.com/82578024/165873490-2a7be140-09e1-4597-8447-f0eb748b954a.jpg) sẽ lưu danh sách các phân nhóm mà bạn vừa làm, từ danh sách này, bạn có thể kiểm tra xem mình đã phân nhóm đúng chưa. Bạn cũng có thể sửa lại bằng cách chọn nhóm trong danh sách đó và kích vào nút **Change**, kích vào nút **Remove** nếu bạn muốn xoá bỏ.
+Hộp **Old→New** sẽ lưu danh sách các phân nhóm mà bạn vừa làm, từ danh sách này, bạn có thể kiểm tra xem mình đã phân nhóm đúng chưa. Bạn cũng có thể sửa lại bằng cách chọn nhóm trong danh sách đó và kích vào nút **Change**, kích vào nút **Remove** nếu bạn muốn xoá bỏ.
 
 Nhấn **Continue** để khẳng định việc mã hoá bạn vừa làm rồi nhấn **OK** để thực hiện
 
@@ -299,13 +300,13 @@ Nhấn **Continue** để khẳng định việc mã hoá bạn vừa làm rồi
 
 **5.	Phân tích số liệu:**
 
-5.1.	Làm việc với biến định tính:
+**5.1.	Làm việc với biến định tính:**
 
 5.1.1.	Tính tần suất (n) và tỉ lệ (%)
 
 Các bảng tần số và biểu đồ cột của tần suất và tỷ lệ mô tả phân bổ các giá trị của một biến định tính (phân loại) có được qua SPSS bằng cách dùng lệnh sau:
 
-Từ thực đơn dọc chọn: ![1](https://user-images.githubusercontent.com/82578024/165874962-5dd502f7-8bd7-4862-9a95-23c35b1315fb.jpg)
+Từ thực đơn dọc chọn: **Analyse→DescriptiveStatistics→Frequencies**
 
 Từ danh sách các biến, chọn biến **hocvan** (trình độ học vấn), và **nghe** (nghề nghiệp) và chuyển chúng vào hộp **Variabie(s)** bằng cách nhấp chuột lên phím mũi tên  ![1](https://user-images.githubusercontent.com/82578024/165875170-95ee9a66-e61a-412b-8a53-e3c4bff38f0d.jpg)
 
@@ -321,13 +322,13 @@ Bấm **Ok** sẽ có kết quả sau:
 
 5.1.2.	Biểu đồ cột:
 
-Nhấn vào: ![1](https://user-images.githubusercontent.com/82578024/165875695-e04e05f5-5101-48c2-85cb-4ae870eab642.jpg). Bạn có thể chọn biểu đồ cột biểu diễn tần suất
+Nhấn vào: **Graphs→Lagacy→Dialogs→Bar**. Bạn có thể chọn biểu đồ cột biểu diễn tần suất
 
 ![1](https://user-images.githubusercontent.com/82578024/165875779-acadcd69-18e7-4f64-9911-559bf94a9f42.jpg)
 
 Có 3 lựa chọn kiểu biểu đồ, giả sử chọn Simple ta có bảng sau:
 
-[MAU  KHOA BAO CAO HD Y TE HANG THANG 2021.xlsx](https://github.com/BsNgChiThanh/SPSS/files/8587682/MAU.KHOA.BAO.CAO.HD.Y.TE.HANG.THANG.2021.xlsx)
+![1](https://user-images.githubusercontent.com/82578024/165923064-4504a378-a523-4a56-958f-1fb8e2d69ae6.jpg)
 
 Đưa biến **hocvan** vào và nhấn **Ok**. 
 
@@ -341,7 +342,7 @@ Chúng ta có thể vẽ biểu đồ với đơn vị là phần trăm, nếu c
 
 Mô tả nhẹ cân sơ sinh theo giới tính thai nhi:
 
-1. Ta chọn Menu lệnh: ![1](https://user-images.githubusercontent.com/82578024/165876224-f9f3fbec-738a-481f-961f-8df2717b89a5.jpg)
+1. Ta chọn Menu lệnh: **Analyse→DescriptiveStatictics→Crosstabes**
 2. Đưa biến vào:
 
 ![1](https://user-images.githubusercontent.com/82578024/165876315-10570fa6-8db4-41e5-a292-b4bd852a8abf.jpg)
@@ -350,7 +351,7 @@ Mô tả nhẹ cân sơ sinh theo giới tính thai nhi:
 
 ![1](https://user-images.githubusercontent.com/82578024/165876527-3807f698-35f9-4ede-b97e-b822a4b05c04.jpg)
 
-**4. Bấm Continue sau đó Ok là xong**
+4. Bấm **Continue** sau đó **Ok** là xong
 
 ![1](https://user-images.githubusercontent.com/82578024/165895896-0fecfc11-022d-4382-be3e-898e1b89ef4a.png)
 
@@ -366,20 +367,17 @@ Người ta muốn xét trẻ nhẹ cân ngoài theo giới tính trẻ mà còn
 
 5.1.5.1. So sánh một tỉ lệ với một tỉ lệ quần thể hay tỉ lệ lý thuyết.
 
-Giả thuyết ![1](https://user-images.githubusercontent.com/82578024/165896886-df203ea6-e05f-4a62-95a4-34dc37f41272.jpg). Tỉ lệ nhẹ cân sơ sinh là bằng với một nghiên cứu khác là 7% 
+Giả thuyết Ho: Tỉ lệ nhẹ cân sơ sinh là bằng với một nghiên cứu khác là 7% 
 
 Chúng ta sử dụng kiểm định ![1](https://user-images.githubusercontent.com/82578024/165897021-c84f59bf-413c-48eb-8397-8fc33f12ee91.jpg) (Chi-Square) một mẫu để so sánh tỉ lệ sơ sinh nhẹ cân trong nghiên cứu cnss.sav với tỉ lệ sơ sinh nhẹ cân trong một nghiên cứu khác.
 
-1. Từ thanh menu lệnh chọn:
-
-![1](https://user-images.githubusercontent.com/82578024/165897168-50e62a15-dfb6-46a1-865e-c22f9febc6c0.jpg)
+1. Từ thanh menu lệnh chọn: **Analyse→NonparametricTest→LagacyDialogs→Chi-Square**
 
 Một hộp thoại hiện ra:
 
 ![1](https://user-images.githubusercontent.com/82578024/165897371-c93189d5-31fd-402f-98cf-4883d627606d.jpg)
 
-2. Đưa biến nhecan vào ô _**TestVeriableList**_
-
+2. Đưa biến **nhecan** vào ô _**TestVeriableList**_
 3. Chỉ cho SPSS biết tỉ lệ nào mà bạn muốn trên cơ sở quần thể mà bạn sử dụng. Để thực hiện điều này, bạn phải đưa giá trị vào ô **Expected Values** giá trị này phải nhỏ hơn 1, trong ví dụ này giá trị kỳ vọng là 0.07 của tất cả trẻ sinh ra không bị nhẹ cân.
 
 4. Giá trị đầu là 0.93 và giá trị sau là 0.07, tổng 2 giá trị là 100%
@@ -397,9 +395,7 @@ Phiên giải: Tỉ lệ sơ sinh nhẹ cân xấp xỉ 6% trong nghiên cứu c
 Giả thuyết Ho: Tỉ lệ nhẹ cân của trẻ gái tương đương với trẻ trai khi trẻ mới sinh ra. Chúng ta sử dụng kiểm định khi bình phương để kiểm tra giả thuyết là tỷ lệ sơ sinh gái nhẹ cân xảy ra tương đương với tỷ lệ lệ sinh trai nhẹ cân.
 
 1. Từ thanh thực đơn chọn: Analyse→Descriptive Statictics→Crosstabs Một hộp thoại sẽ hiện ra.
-
 2. Từ danh sách các biến, đánh dấu vào biến phụ thuộc mà bạn muốn phân tích. Trong ví dụ này là **nhecan** (< 2500 gram hoặc ≥ 2500 gram), và kích vào mũi tên để chuyển biến đó sang ô **Column(s)**.
-
 3. Từ danh sách các biến, đánh dấu vào biến độc lập mà bạn muốn phân tích, trong ví dụ này là **gioitinhtre** (trai hoặc gái), và kích vào mũi tên để chuyển sang ô **Row(s)**.
  
 ![1](https://user-images.githubusercontent.com/82578024/165899496-39747b93-3170-4e0f-803a-026d744fbf7e.jpg)
@@ -425,7 +421,7 @@ OR=0.818 với khoản tin cậy: 95%(0.435-1.540) tuy nhiên sự khác biệt 
 
 5.1.5.3. So sánh tỉ lệ của hơn nhiều nhóm:
 
-Giả thuyết H_0: Tỉ lệ sơ sinh nhẹ cân là giống nhau ở các bà mẹ có độ tuổi khác nhau khi sinh con.
+Giả thuyết Ho: Tỉ lệ sơ sinh nhẹ cân là giống nhau ở các bà mẹ có độ tuổi khác nhau khi sinh con.
 
 Chúng ta sử dụng kiểm định khi bình phương để so sánh tỉ lệ sơ sinh nhẹ cân ở 3 nhóm tuổi của bà mẹ.
 
@@ -435,7 +431,7 @@ Chúng ta sử dụng kiểm định khi bình phương để so sánh tỉ lệ
 
 Phiên giải: Có tất cả 5.8% trẻ sơ sinh nhẹ cân, chúng không đủ bằng chứng để chỉ ra rằng tỉ lệ sơ sinh nhẹ cân khác nhau theo nhóm tuổi mẹ  ![1](https://user-images.githubusercontent.com/82578024/165901485-8bc6d0a0-92e9-4519-8f7a-cd4c11a9f309.jpg)
 
-5.2.	Làm việc với biến định lượng:
+**5.2.	Làm việc với biến định lượng:**
 
 5.2.1.	Thống kê mô tả:
 
