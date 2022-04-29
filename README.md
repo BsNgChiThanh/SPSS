@@ -111,7 +111,9 @@ Restart lại máy tính là ok
 
 [Xem Video Phân tích Independent Sample T-Test trên SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/EXe1CGmaWC1GjLlWwStznBABb9q-2B7Hz9KNpDoc9nPWHA?e=bKZdmR)
 
-## TỪNG BƯỚC CHINH PHỤC SPSS ##
+## TỪNG BƯỚC CHINH PHỤC SPSS VỚI FILE DATA SẴN CÓ: [cnss.sav](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EcGshQFCzphJoqBDVkMCOcMBlzjBeF6Jbzs4U2ZnSrRp3g?e=QDMHSn)##
+
+Các bạn download file [cnss.sav](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EcGshQFCzphJoqBDVkMCOcMBlzjBeF6Jbzs4U2ZnSrRp3g?e=QDMHSn) về để tiến hành chinh phục.
 
 ### I. GIỚI THIỆU:
 
