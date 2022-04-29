@@ -684,9 +684,174 @@ Giả sử sự khác biệt về cân nặng của trẻ sau sinh 3 ngày và l
 
 ![1](https://user-images.githubusercontent.com/82578024/165930025-ff9e004a-f440-4933-acba-45aea9d06fa0.jpg)
 
+Bấm **Ok**
 
+![1](https://user-images.githubusercontent.com/82578024/165937000-ae0bf442-7b7c-4df8-9f97-7738a30b18f9.jpg)
 
+![1](https://user-images.githubusercontent.com/82578024/165937142-ec013abe-9b32-4231-a8df-69c0565629b0.jpg)
 
+Phiên giải:
 
+Chúng ta có đủ bằng chứng, để kết luận rằng cân nặng của trẻ sau sinh 3 ngày có sự khác biệt có ỷ nghĩa thống kê (Z=-26.025;p<0.001) 
 
+5.2.4.3. So sánh trung vị của nhiều hơn hai nhóm:	
 
+Giả thuyết Ho: Ngày nằm viện của các bà mẹ giống nhau ở các nhóm tuổi khác nhau.
+
+Do số ngày nằm viện của các bà mẹ ở các nhóm tuổi không có phân bố chuẩn nên để so sánh trung vị của độ dài số ngày nằm viện của các bà mẹ ở 3 nhóm tuổi chúng ta sử dụng phân tích phương sai **Kruskal-Wallis**.
+
+Chạy kiểm định **ANOVA Kruskal-Wallis**, từ menu chọn: **Analyse→NonparametricTests→LegacyDialogs→K Independent Samples**.
+
+Từ danh sách các biến, đánh dấu vào biến phụ thuộc mà bạn muốn phân tích trong trường hợp này là **ngaynv** (số ngày nằm viện) và chuyển biến đó sang ô **Test Variable List** bằng cách kích vào mũi tên phía trên.
+
+Từ danh sách các biến, đánh dấu vào biến độc lập mà bạn muốn sử dụng (có nghĩa là các nhóm mà bạn muốn so sánh). Trong ví dụ này là **nhomtuoi** và chuyển biến đó sang ô **Grouping Variable** bằng cách kích vào mũi tên phía dưới.
+
+Hãy kiếm tra là bạn đã chọn **Kruskal-Wallis H** trong hộp **Test Type** chưa?
+
+![1](https://user-images.githubusercontent.com/82578024/165937854-2e30f118-5f15-40f2-b906-9c0e95327282.jpg)
+
+Bạn phải chỉ ra cho SPSS hiểu được khoảng số liệu của biến phụ thuộc (nhóm) có thể nhận. Trong ví dụ này là **nhomtuoi** được mã hoá là từ 1 đến 3. Để làm được điều này, đánh dấu vào nhomtuoi trong ô **Grouping Variable** và kích vào **Define Range**. Bạn sẽ có một hộp thoại dạng sau. Nhập giá trị lớn nhất và giá trị nhỏ nhất vào các ô và kích **Continue**.
+
+![1](https://user-images.githubusercontent.com/82578024/165938051-978e44e1-5c36-4d1c-bbd4-c25ad0c798a4.jpg)
+
+Bấm **Continue** rồi bấm **Ok**
+
+**Kruskal-Wallis Test**
+
+![1](https://user-images.githubusercontent.com/82578024/165938207-ccb68c7c-0d49-40dc-bc32-9df7cc1bac0f.jpg)
+
+Phiên giải:
+	
+Trung vị số ngày nằm viện của các bà mẹ có độ tuổi khác nhau không có sự khác biệt có ý nghĩa thống kê (**Kruskal-Wallis test**, p=0.787).
+
+**5.3.	Phân tích tương quan:**
+
+5.3.1.	Mô tả bằng hệ số tương quan:
+
+Hệ số tương quan là hệ số xác định mức độ tương quan trong mối quan hệ tương quan. Biến thiên trong khoảng -1 đến 1.
+|giá trị|ý nghĩa|
+|--|--|
+|-1→0| Tương quan ngược chiều (nghịch)|
+|0→+1| Tương quan thuận chiều |
+|=0|       Không có mối tương quan|
+
+Xét giá trị tuyệt đối:
+
+|giá trị|ý nghĩa|
+|--|--|
+|0→0.2|   Tương quan rất yếu |
+|0.2→0.5| Tương quan yếu | 
+|0.5→0.7| Tương quan vừa (trung bình)|
+|0.7→0.9| Tương quan chặt chẽ  |
+|≥0.9|       Tương quan rất chặt chẽ  |
+
+Có 2 loại hệ số tương quan chính:
+
+- Hệ số tương quan **pearson** cho phân phối chuẩn và các giá trị liên tục đo đem được
+- Hệ số tương quan **Spearman** hay **Kendall** cho các phân phối không chuẩn hay các giá trị phân hạng
+
+5.3.1.1	Hệ sế tương quan khi cả hai biến có phân phối chuẩn:
+
+Giả thuyết Ho: Trung bình cân nặng sơ sinh của trẻ có liên quan đến tăng cân sản phụ trong quá trình mang thai.
+
+Vì cả hai biến cân nặng sơ sinh và tăng cân của sản phụ đều có phân bố chuẩn nên chúng ta dùng hệ số tương quan **Pearson** để tóm tắt mối quan hệ giữa hai biến. 
+
+1. Từ thanh thực đơn chọn: **Analyse→Correlate→Bivariate** để tính giá trị tương quan Pearson. Bạn sẽ thấy xuất hiện một cửa sổ như dưới đây:
+2. Từ danh sách các biến đánh dấu vào từng biến mà bạn muốn phân tích. Trong ví dụ này là **cnss** (cân nặng sơ sinh) và **tangcan** (tăng cân), và chuyển hai biến đó sang ô **Test Variable** List cùng một lúc  
+3. Kích vào ô **Pearson** trong phần **Correlation Coefficients**.
+
+![1](https://user-images.githubusercontent.com/82578024/165939755-c68b9ba0-4fba-4a76-a061-dd161b25a910.jpg)
+
+Bấm **Ok**
+
+![1](https://user-images.githubusercontent.com/82578024/165939947-b20d39b2-775c-4208-a683-cb1fd5a656d5.jpg)
+
+Phiên giải:
+	
+Có mối tương quan thuận chiều mức độ yểu giữa tăng cân sản phụ trong quá trình mang thai và càn nặng sơ sinh (**Pearson's** r=0.454; p<0.001).  
+
+5.3.1.2	Khi cả hai hoặc ít nhất một biến không có phân phối chuẩn:
+
+Giả thuyết Ho: tuổi của sản phụ không liên quan đến số ngày nằm viện của họ sau khi sinh.
+
+Do số ngày nằm viện của các bà mẹ không có phân bố chuẩn nên chúng ta sử dụng hệ số tương quan hạng **Spearman** để tóm tắt mối quan hệ giữa 2 biến.
+
+1. Để tính giá trị tương quan Spearmans, chọn thực đơn: **Analyse→Correlate→Bivariate**  
+2. Từ danh sách cảc biến, đánh dấu vào mỗi biến mà bạn muốn phân tích, trong ví dụ này là tuoi (tuổi của sản phụ) và ngaynv (ngày nằm viện) sau đó chuyển đồng thời hai biến này sang ô **Test Variable List**  
+3. Kiểm tra lại là bạn đã chọn kiểm định **Spearman** trong ô **Correlation Coefficients**.
+
+![1](https://user-images.githubusercontent.com/82578024/165940553-6d94bd92-8502-4603-bb86-b6465e18e946.jpg)
+
+Bấm **Ok**
+
+![1](https://user-images.githubusercontent.com/82578024/165940746-e580cfdf-cb3d-4384-8184-df5447ead1f9.jpg)
+
+Phiên giải:
+
+Số ngày nằm viện và tuổi sản phụ hầu như không có mối tương quan với nhau (**Spearman’s** r=0.02; p=0.598)  
+
+5.3.2	Mô tả bằng biểu đồ - biểu đồ chấm điểm:
+
+Để yêu cầu vẽ biểu đồ chấm về mối liên quan giữa hai biến định lượng, đầu tiên bạn cần định rõ biến nào nằm trên trục X và biến nào sẽ nằm trên trục Y. Trong ví dụ này, chúng ta thấy cân nặng sơ sinh chịu ảnh hưởng của tăng cân của sản phụ hợp lý hơn là tăng cân của sản phụ chịu ảnh hưởng của cân nặng sơ sinh, vì thế tăng cân của sản phụ sẽ nằm trên trục X và cân nặng sơ sinh sẽ nằm trên trục Y.
+
+1. Từ thực đơn chọn: **Graphs→Lagacy Dialogs→Scatter Dot→Simple Scatter→Define**
+
+![1](https://user-images.githubusercontent.com/82578024/165941200-bcf46af4-3e06-4307-9169-26b6ab95c94c.jpg)
+
+2. Nhấp chuột lên **Define**, sau đó từ danh sách biến, chọn biến **tangcan** (tăng cân của sản phụ) và chuyển vào hộp **X-axis**, sau đó chọn biến **cnss** (cân nặng sơ sinh) vào hộp **Y-axis**
+
+![1](https://user-images.githubusercontent.com/82578024/165941609-49d5b3e1-fb0d-4e8c-9814-a8b0465cbe75.jpg)
+
+3. Nhấn chuột lên **Titles**
+
+![1](https://user-images.githubusercontent.com/82578024/165941784-5931034c-ad6a-4b0c-96d8-d0ddbac213b4.jpg)
+
+Đánh tiêu đề vào **Line 1**, bấm **Continue** sau đó **Ok** là xong
+
+![1](https://user-images.githubusercontent.com/82578024/165941992-fdb51d52-f633-480d-be04-d2358bef2224.jpg)
+
+**5.4	Hồi qui tuyến tính:**
+
+5.4.1	Hồi qui tuyến tính đơn giản
+
+Quan hệ hồi qui là bước tiếp theo của phân tích tương quan, cho phép đo lường suy luận giá trị của một biến số (phụ thuộc) khi biết được giá trị của một (hoặc nhiều) biến số độc lập.
+
+Ví dụ: y=a+bx 
+
+y: là hàm số
+
+x: là biến số
+
+b: là hệ số hồi qui hay độ dốc của đường thẳng: **slope**
+
+a: là hằng số hay giao điểm với trục tung
+
+Ý nghĩa: từ biến số độc lập suy diễn ra biến số phụ thuộc, có thể giúp dự đoán, dự báo.
+
+Mô hình hồi qui tuyến tính đơn giản chỉ có một biến độc lập x và một biến phụ thuộc y (**simple lincar regression**).
+
+Ví dụ:
+
+Giả thuyết Ho Cân nặng sơ sinh không liên quan đến tăng cân của thai phụ trong quá trình mang thai.
+
+Chúng ta dùng hồi quy tuyến tính để miêu tả mối quan hệ giữa cân nặng sơ sinh và tăng cân của thai phụ. 
+
+1. Để chạy hồi quy tuyến tính đơn giản, từ thanh thực đơn bạn chọn: **Analyse→Regression→Linear**
+2. Từ danh sách các biến, đánh dấu vào biến phụ thuộc, trong ví dụ này là **cnss** (cân nặng sơ sinh) và chuyển biến đó sang ô **Dependent** 
+3. Sau đó chọn biến độc lập, trong ví dụ này là **tangcan** và chuyển biến độc lập sang ô **Independent(s)**.
+
+![1](https://user-images.githubusercontent.com/82578024/165943153-24b3f633-f343-40c4-a662-3771f45cff33.jpg)
+
+4. Bây giờ kích vảo **Stiìtistics**. Bạn sẽ thấy một hộp thoại sau. Nếu bạn muốn SPSS tính khoảng tin cậy cho hệ số hồi quy, giá trị này được sử dụng để độ đo mức chính xác của phép kiểm định, bạn chọn **Confidence intervals** trong hộp **Regression Coefficients** khi nhấn vào **Statictics**. Sau đó kích **Continue**.
+
+![1](https://user-images.githubusercontent.com/82578024/165943410-2c0000a8-ee0f-4165-88ee-f6b83081c901.jpg)
+
+![1](https://user-images.githubusercontent.com/82578024/165943513-f95aedd2-104a-48d2-a746-ae026a943802.jpg)
+
+![1](https://user-images.githubusercontent.com/82578024/165943604-1c6535f6-46c3-4f08-95b1-507b3deb542f.jpg)
+
+![1](https://user-images.githubusercontent.com/82578024/165943729-5861ff4b-3ced-45e5-928f-16f189901857.jpg)
+
+Phiên giải:
+
+Cân nặng sơ sinh có mối liên quan một cách có ý nghĩa thống kê với tăng cân thai phụ (F702=181.752; p < 0.001). Đối với mỗi một kg sản phụ tăng lên trong lúc mang thai, cân nặng sơ sinh sẽ 111.348 gram (khoảng tin cậy 95% là 95.132 – 127.564). Tăng cân của sản phụ trong quá trình mang thai lý giải được 20, 6% sự biến thiên của cân nặng sơ sinh.
