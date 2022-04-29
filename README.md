@@ -468,7 +468,7 @@ Trong trường hợp biến không có phân phối chuẩn, nhưng nếu biế
 - Giá trị Skewness và Kurtosis nằm trong khoảng ±3 
 - Biểu đồ Histogram có dạng hình chuông.
 
-Biến định lượng có phân phối chuẩn: giá trị trung bình và độ lệch chuẩn.
+**Biến định lượng có phân phối chuẩn: giá trị trung bình và độ lệch chuẩn.**
 
 1. Menu lệnh: **Analyse→Descriptive Statictics→Frequencies**
 2. Đưa biến **cnss** vào và kích vào ô **Statictics**
@@ -481,7 +481,7 @@ Bấm Continue sau đó bấm Ok
 
 ![1](https://user-images.githubusercontent.com/82578024/165904714-c4929928-599d-4bd7-bc60-28254f0fc167.jpg)
 
-Trường hợp biến không có phân phối chuẩn: Trung vị, Min, Max, khoản tứ vị.
+**Trường hợp biến không có phân phối chuẩn: Trung vị, Min, Max, khoản tứ vị.**
  
  ![1](https://user-images.githubusercontent.com/82578024/165904991-31cca28c-897b-43d7-bacf-547b3cb7bc87.jpg)
 
@@ -559,9 +559,9 @@ Vì cân nặng sơ sinh tuân theo phân phối chuẩn, áp dụng bảng trê
 
 ![1](https://user-images.githubusercontent.com/82578024/165909332-d2f93bd2-f977-4623-b525-104725f1cf61.jpg)
 
-2. Đưa cnss vào.
+2. Đưa **cnss** vào.
 3. Điền 2900 vào ô **Test Value**
-4. Bấm Ok
+4. Bấm **Ok**
 
 ![1](https://user-images.githubusercontent.com/82578024/165910177-1fbac5ba-51b7-40c0-9f2d-4bd2219488c0.jpg)
 
@@ -619,26 +619,70 @@ Cân nặng sơ sinh của các trẻ được sinh ở các bà mẹ thuộc 3 
 1. Từ menu chọn: **Analyse→ Compare Means→ One-Way ANOVA**. 
 2. Từ danh sách các biến đánh dấu vào biến phụ thuộc mà bạn muốn phân tích, trong trường hợp này là, **cnss** (cân nặng sơ sinh), và chuyển nó vào ô **Dependent List** 
 3. Từ danh sách các biến, đánh dấu vào biến độc lập mà bạn muốn sử dụng (có nghĩa là các nhóm mà bạn muốn so sánh). Trong trường họp này là **nhomtuoi** (nhóm tuổi mẹ), chuyển nó sang ô **Factor**.
+4. Để có kết quả về thống kê mô tả (Cân nặng sơ sinh trung bình của các nhóm tuổi mẹ) và cho mổi kiểm định thống kê phương sai đồng nhất, hãy kích vào **Options** chú ý click vào **Descriptive** và **Homogeneity of variance test**.
+5. Để so sánh từng cặp, click vào **Post Hoc**, có thể chọn bất cứ phương pháp so sánh cặp nào, tuy nhiên nên dùng **Tukey** nếu bạn có phương sai bằng nhau, **Dunett’s T3** nếu phương sai không bằng nhau.
 
+![1](https://user-images.githubusercontent.com/82578024/165927959-6955932c-9c8c-46d0-a7e4-5e540bdf465a.jpg)
 
+![1](https://user-images.githubusercontent.com/82578024/165928041-c3adae0f-b87d-49ed-922a-403bc89e2aad.jpg)
 
+Bấm **Continue** rồi bấm **Post Hoc**
 
+![1](https://user-images.githubusercontent.com/82578024/165928170-fedd36e8-3e1f-4ff3-93d0-c294d51779dc.jpg)
 
+Bấm **Continue** rồi bấm **Ok**
 
+![1](https://user-images.githubusercontent.com/82578024/165928311-09fe472d-046e-4540-b4e0-45a6da31b18e.jpg)
 
+![1](https://user-images.githubusercontent.com/82578024/165928400-4dc14aad-992c-47c6-976d-98a91ac759eb.jpg)
 
+![1](https://user-images.githubusercontent.com/82578024/165928516-087016c5-8448-47c2-9e84-8366c53518b4.jpg)
 
+Phiên giải:
 
+Sự khác biệt cân nặng sơ sinh của trẻ được sinh ra ở các bà mẹ có độ tuổi khác nhau có ỷ nghĩa thống kê (F2,702=4.072;p=0.017)
 
+**Test Levene’s** về sự đồng nhất phương sai cân nặng sơ sinh của trẻ ở 3 nhóm bà mẹ này cho thấy là như nhau (p = 0,167 >0,05). Nên nếu muốn xem cân nặng sơ sinh cùa trẻ ở bà mẹ có nhóm tuổi nào, khác với nhóm nào, ta đọc kết quả Tukey HSD.
 
+Kết quả chỉ ra rằng các trẻ được sinh ra ở bà mẹ thuộc nhóm tuổi < 25 có cân nặng sơ sinh khác với các trẻ được sinh ra ở bà mẹ cổ nhóm tuổi từ 25-35 tuổi (p=0.037), không khác với các trẻ được sinh ra ở các bà mẹ thuộc nhóm tuổi > 35 (p=0.915). Còn lại kết quả cũng cho thấy rằng, cân nặng sơ sinh của các trẻ sinh ra ở các bà mẹ thuộc nhóm tuổi 25-35 khác nhau không có ý nghĩa thống kê so với trẻ sinh ra ở các bà mẹ thuộc nhóm tuổi trên 35 (p=0.137). 
 
+5.2.4.	Kiểm định giả thuyết cho giá trị trung vị
 
+5.2.4.1. So sánh trung vị của hai nhóm:
 
+Giả thuyết Ho: Ngày nằm viện khi sinh con của những bà mẹ có bệnh khi mang thai và của những bà mẹ không có bệnh khi mang thai là như nhau.
 
+Biến ngày nằm viện cùa 2 nhóm bà mẹ có bệnh và không có bệnh được chứng minh là không có phân phối chuẩn nên để so sánh trung vị số ngày nằm viện của những bà mẹ có bệnh và không có bệnh chúng ta sử dụng kiểm định **Mann-Whitney**.
 
+1. Từ thực đơn chọn: **Analyse→NonparametricTests→LegacyDialogs→2Independent-Samples**
+2. Đánh dấu vào ô chọn **Mann-Whitney U** trong phần **Test Type** để chọn kiểm định thống kê.
+3. Từ danh sách các biến, đánh dấu vào biến phụ thuộc mà bạn muốn phân tích, trong ví dụ này là **ngaynv** (số ngày nằm viện), và chuyển biến đó sang ô **Test Variable(s)** bằng cách kích vào mũi tên phía trên.
+4. Từ danh sách các biến, đánh dấu vào biến độc lập mà bạn muốn sử dụng (có nghĩa là các nhóm mà bạn muốn so sánh). Trong ví dụ nảy là **benhme** và kích vào mũi tên phía dưới đế chuyển biến đó sang ô **Grouping Variable**.
 
+![1](https://user-images.githubusercontent.com/82578024/165929233-179dd931-2c4f-4982-b370-8c20b08d2e1a.jpg)
 
+5. Bây giờ bạn hãy định nghĩa các loại của biến độc lập để SPSS hiểu được cái gì mà bạn muốn so sánh (có nghĩa là nhóm nào là nhóm mẹ bệnh và mẹ không bệnh). Để làm được điều đó, bạn đánh dấu vào biến độc lập (benhme) và kích vào **Define Groups**. Bạn sẽ thấy một hộp thoại hiện ra. Bạn cần phải chỉ ra cho SPSS biết mã mẹ có bệnh là gì, (ở đây mã của nhóm có bệnh là 1), mã không có bệnh là gì (ở đây dữ liệu mã nhóm không có bệnh là 2) bằng cách đánh mã vào các ô **Group 1** và **Group 2** tương ứng. Bây giờ kích vào Continue.
 
+![1](https://user-images.githubusercontent.com/82578024/165929414-c8293645-a851-4d4b-b5e7-485a98ad2491.jpg)
+
+Bấm **Continue** sau đó **Ok**
+
+![1](https://user-images.githubusercontent.com/82578024/165929604-f8d1758d-c4da-4abd-9aee-efeee42c4423.jpg)
+
+Phiên giải:
+
+Khi xem xét số ngày nằm viện cùa các bà mẹ, chúng ta kết luận rằng có sự khác biệt, có ý nghĩa thống kê về trung vị số ngày nằm viện của những bà mẹ bị bệnh và không bị bệnh trong lúc mang thai (Z=-4.523;n=692;p<0.001). Trung vị số ngày nằm viện của những bà mẹ không bị bệnh thấp hơn những bà mẹ có bệnh.
+
+5.2.4.2. So sánh giá trị trung vị tại hai thời điểm của một nhóm:
+
+Giả thuyết Ho: Trung bình cân nặng của trẻ sau sinh 3 ngày và khi mới sinh ra là không khác nhau.
+
+Giả sử sự khác biệt về cân nặng của trẻ sau sinh 3 ngày và lúc mớí sinh là không có phân phối chuẩn. Chúng ta sử dụng kiểm định **Wilcoxon** để kiểm định sự thay đổi cân nặng sơ sinh qua thời gian.
+
+1. Từ thanh thực đơn, chạy kiểm định xếp dạng dấu: **Analyse→ NonparametricTests→ Legacy Dialogs→ 2  Re⁡l atedSamples**   
+2. Từ danh sách các biến, đánh dấu vào cặp biến thể hiện các đo lường lập lậi, trong trường hợp này là **cnss** (cân nặng sơ sinh) và **cn3ngay** (cân nặng sau 3 ngày). Chuyển chúng vào ô **Test Pairs**.
+
+![1](https://user-images.githubusercontent.com/82578024/165930025-ff9e004a-f440-4933-acba-45aea9d06fa0.jpg)
 
 
 
