@@ -136,7 +136,7 @@ Sử dụng phần mềm SPSS để thực hành nhằm đạt các mục tiêu 
 
 1.1	Mở chương trình SPSS: nhấp đúp vào biểu tượng SPSS là xong
 
-![1](https://user-images.githubusercontent.com/82578024/165868548-cfe77a92-2566-474e-942d-ebced2bb4e32.jpg)
+![1](https://user-images.githubusercontent.com/82578024/165895727-8299605e-5578-4d34-848f-bcb0e5d012ce.png)
 
 Chương trình SPSS hiện ra
  
@@ -350,15 +350,279 @@ Mô tả nhẹ cân sơ sinh theo giới tính thai nhi:
 
 ![1](https://user-images.githubusercontent.com/82578024/165876527-3807f698-35f9-4ede-b97e-b822a4b05c04.jpg)
 
+**4. Bấm Continue sau đó Ok là xong**
 
+![1](https://user-images.githubusercontent.com/82578024/165895896-0fecfc11-022d-4382-be3e-898e1b89ef4a.png)
 
+5.1.4.	Phân tích tầng
 
+Người ta muốn xét trẻ nhẹ cân ngoài theo giới tính trẻ mà còn theo bệnh mẹ, làm theo câu lệnh trên nhưng đưa bệnh mẹ vào ô **Layer 1 of 1**
 
+![1](https://user-images.githubusercontent.com/82578024/165896451-9826fbdf-1969-4a62-b960-5755325498c8.jpg)
 
+![1](https://user-images.githubusercontent.com/82578024/165896594-9c7287ad-9133-4c3e-8575-89c963cc62c9.jpg)
 
+5.1.5.	Kiểm định giả thuyết cho giá trị tỉ lệ:
 
+5.1.5.1. So sánh một tỉ lệ với một tỉ lệ quần thể hay tỉ lệ lý thuyết.
 
+Giả thuyết ![1](https://user-images.githubusercontent.com/82578024/165896886-df203ea6-e05f-4a62-95a4-34dc37f41272.jpg). Tỉ lệ nhẹ cân sơ sinh là bằng với một nghiên cứu khác là 7% 
 
+Chúng ta sử dụng kiểm định ![1](https://user-images.githubusercontent.com/82578024/165897021-c84f59bf-413c-48eb-8397-8fc33f12ee91.jpg) (Chi-Square) một mẫu để so sánh tỉ lệ sơ sinh nhẹ cân trong nghiên cứu cnss.sav với tỉ lệ sơ sinh nhẹ cân trong một nghiên cứu khác.
+
+1. Từ thanh menu lệnh chọn:
+
+![1](https://user-images.githubusercontent.com/82578024/165897168-50e62a15-dfb6-46a1-865e-c22f9febc6c0.jpg)
+
+Một hộp thoại hiện ra:
+
+![1](https://user-images.githubusercontent.com/82578024/165897371-c93189d5-31fd-402f-98cf-4883d627606d.jpg)
+
+2. Đưa biến nhecan vào ô _**TestVeriableList**_
+
+3. Chỉ cho SPSS biết tỉ lệ nào mà bạn muốn trên cơ sở quần thể mà bạn sử dụng. Để thực hiện điều này, bạn phải đưa giá trị vào ô **Expected Values** giá trị này phải nhỏ hơn 1, trong ví dụ này giá trị kỳ vọng là 0.07 của tất cả trẻ sinh ra không bị nhẹ cân.
+
+4. Giá trị đầu là 0.93 và giá trị sau là 0.07, tổng 2 giá trị là 100%
+
+![1](https://user-images.githubusercontent.com/82578024/165898179-77db7530-5048-4408-8cbf-aa8223feffcb.jpg)
+
+**Chi-Square Test**
+
+![1](https://user-images.githubusercontent.com/82578024/165898586-3cc9f57d-ddf8-4b73-a304-9d99ed6746da.jpg)
+
+Phiên giải: Tỉ lệ sơ sinh nhẹ cân xấp xỉ 6% trong nghiên cứu cân nặng sơ sinh. Tỉ lệ này tương tự như tỉ lệ sơ sinh nhẹ cân ở một nghiên cứu khác, trong đó 7% trẻ sinh nhẹ cân ![1](https://user-images.githubusercontent.com/82578024/165898836-70233b4a-342c-45dc-9b37-b517b8df9d2e.jpg)
+
+5.1.5.2. So sánh tỉ lệ của 2 nhóm:
+
+Giả thuyết Ho: Tỉ lệ nhẹ cân của trẻ gái tương đương với trẻ trai khi trẻ mới sinh ra. Chúng ta sử dụng kiểm định khi bình phương để kiểm tra giả thuyết là tỷ lệ sơ sinh gái nhẹ cân xảy ra tương đương với tỷ lệ lệ sinh trai nhẹ cân.
+
+1. Từ thanh thực đơn chọn: Analyse→Descriptive Statictics→Crosstabs Một hộp thoại sẽ hiện ra.
+
+2. Từ danh sách các biến, đánh dấu vào biến phụ thuộc mà bạn muốn phân tích. Trong ví dụ này là **nhecan** (< 2500 gram hoặc ≥ 2500 gram), và kích vào mũi tên để chuyển biến đó sang ô **Column(s)**.
+
+3. Từ danh sách các biến, đánh dấu vào biến độc lập mà bạn muốn phân tích, trong ví dụ này là **gioitinhtre** (trai hoặc gái), và kích vào mũi tên để chuyển sang ô **Row(s)**.
+ 
+![1](https://user-images.githubusercontent.com/82578024/165899496-39747b93-3170-4e0f-803a-026d744fbf7e.jpg)
+
+Để kiểm định Chi-Square ta kích vào ô **Statictics** và kích vào **Chi-Square**
+
+![1](https://user-images.githubusercontent.com/82578024/165899680-7fea527b-edb6-4cdb-8bb4-8927875f7db5.jpg)
+
+Nếu chúng ta muốn tính **OR** hoặc tính **RR** thì kích vào ô **Risk** sau đó bấm **Continue**.
+ 
+![1](https://user-images.githubusercontent.com/82578024/165899856-7c124358-7202-4185-9c45-9407ff60f9c7.jpg)
+
+Lưu ý: Bảng **2x2** thì mới tính được **OR** hoặc **RR**.
+
+Kết quả:
+
+![1](https://user-images.githubusercontent.com/82578024/165900140-d64e9908-f37a-4fca-b78d-fa772dd39ac0.jpg)
+
+![1](https://user-images.githubusercontent.com/82578024/165900365-d5fcc1b7-d30d-42e7-bd33-a225615cc2b0.jpg)
+
+Phiên giải: Có 6.4% trẻ gái sơ sinh nhẹ cân nhưng chỉ có 5.8% trẻ trai sơ sinh nhẹ cân. Tỉ suất chênh chỉ ra sự khác nhau của 2 tỉ lệ này là:
+OR=0.818 với khoản tin cậy: 95%(0.435-1.540) tuy nhiên sự khác biệt về tỉ lệ sơ sinh nhẹ cân của 2 nhóm không có ý nghĩa thống kê ![1](https://user-images.githubusercontent.com/82578024/165900763-54e00d71-9719-47a7-a408-d483cb091776.jpg)
+
+5.1.5.3. So sánh tỉ lệ của hơn nhiều nhóm:
+
+Giả thuyết H_0: Tỉ lệ sơ sinh nhẹ cân là giống nhau ở các bà mẹ có độ tuổi khác nhau khi sinh con.
+
+Chúng ta sử dụng kiểm định khi bình phương để so sánh tỉ lệ sơ sinh nhẹ cân ở 3 nhóm tuổi của bà mẹ.
+
+![1](https://user-images.githubusercontent.com/82578024/165901046-b132699e-48c5-4f82-90e6-044cb86478c2.jpg)
+
+![1](https://user-images.githubusercontent.com/82578024/165901204-10644e78-0248-4528-b0b4-a2ce5aba2cc0.jpg)
+
+Phiên giải: Có tất cả 5.8% trẻ sơ sinh nhẹ cân, chúng không đủ bằng chứng để chỉ ra rằng tỉ lệ sơ sinh nhẹ cân khác nhau theo nhóm tuổi mẹ  ![1](https://user-images.githubusercontent.com/82578024/165901485-8bc6d0a0-92e9-4519-8f7a-cd4c11a9f309.jpg)
+
+5.2.	Làm việc với biến định lượng:
+
+5.2.1.	Thống kê mô tả:
+
+Ứng dụng để tính trung bình, trung vị, độ lệch chẩn, lớn nhất, nhỏ nhất, khoảng phân vị…
+
+**Mô tả giá trị cho khuynh hướng tâm trung và độ phân tán**. Trước khi thực hiện thống kê mô tả cho bất kỳ biến định lượng nào, dù chung cho toàn mẫu hay cho nhóm, ta đều phải kiểm xem dữ liệu định lượng đó có **tuân theo phân phối chuẩn không?**
+
+Nếu biến định lượng **có phân phối chuẩn**, thì mô tả khuynh hướng tập trung bằng giá trị **trung bình (Mean)** và độ phân tán bằng **độ lệch chuẩn (Standard deviation).**
+
+Nếu biến định lượng **không có phân phối chuẩn** thì mô tả khuynh hướng tập trung bằng giá trị **trung vị (Median)** và mô tà độ phân tán bằng giá trị **nhỏ nhất (min)** và **lớn nhất (max)**, hoặc bằng **khoảng (range)**, hoặc bằng **khoảng tứ vị (IQR)**.
+
+Có 2 cách để kiểm tra một biến định lượng có phân phối chuẩn hoặc gần chuẩn:
+
+Cách 1: Vẽ hình chuông phân phối cho biến định lượng đó bằng cách vào Graphs→Legacy Dialogs→ Histogram 
+
+Kiểm tra biến cnss có tuân theo phân phối chuẩn không?
+
+![1](https://user-images.githubusercontent.com/82578024/165903432-50b82359-fc58-465f-a448-d42c93eb8b7e.jpg)
+
+Cách 2: có thể sử dụng kiểm định **One-Sample Kolmogorov-Smirnov** để kiểm định tính chuẩn của số liệu.
+
+Vào: Analyse→Nonparametric Tests→Legacy Dialogs→1-Sample K-S 
+ 
+ ![1](https://user-images.githubusercontent.com/82578024/165903662-1d6c84f4-145d-447f-a6dd-fb56047ef859.jpg)
+
+Nhấn Ok có kết quả:
+ 
+![1](https://user-images.githubusercontent.com/82578024/165903969-4e86afb9-7d48-4c8b-a9cf-a8a297e7fc18.jpg)
+
+Trong trường hợp biến không có phân phối chuẩn, nhưng nếu biến đó xấp xì có phân phối chuẩn, ta vẫn có thề mô tả và thực hiện thông kê suy luận theo qui luật của biến cố phân phối chuẩn. Một biến được xem như xấp xỉ phân phối chuẩn nếu thõa các điều kiện sau:
+
+- Giá trị trung bình giao động trong khoảng ±10% của giá trị trung vị.
+- Giá trị trung bình ±3SD xấp xỉ giá trị lớn nhất và nhỏ nhất.
+- Giá trị Skewness và Kurtosis nằm trong khoảng ±3 
+- Biểu đồ Histogram có dạng hình chuông.
+
+Biến định lượng có phân phối chuẩn: giá trị trung bình và độ lệch chuẩn.
+
+1. Menu lệnh: **Analyse→Descriptive Statictics→Frequencies**
+2. Đưa biến **cnss** vào và kích vào ô **Statictics**
+
+ ![1](https://user-images.githubusercontent.com/82578024/165904446-31de002b-38f6-4ea1-b686-91a12fa1456f.jpg)
+
+ ![1](https://user-images.githubusercontent.com/82578024/165904584-217def1b-2e53-4a78-a92e-e520e3682e2a.jpg)
+
+Bấm Continue sau đó bấm Ok
+
+![1](https://user-images.githubusercontent.com/82578024/165904714-c4929928-599d-4bd7-bc60-28254f0fc167.jpg)
+
+Trường hợp biến không có phân phối chuẩn: Trung vị, Min, Max, khoản tứ vị.
+ 
+ ![1](https://user-images.githubusercontent.com/82578024/165904991-31cca28c-897b-43d7-bacf-547b3cb7bc87.jpg)
+
+Bấm Continue sau đó bấm Ok
+
+![1](https://user-images.githubusercontent.com/82578024/165905155-9ab945ca-b594-4450-ad33-111ad76942eb.jpg)
+
+5.2.2.	Phân tích thống kê mô tả theo các nhóm:
+
+Mô tả trọng lượng sơ sinh theo nhóm tuổi mẹ.
+
+5.2.2.1. Mô tả bằng số:
+ 
+Tính giá trị trung bình và độ lệch chuẩn trong từng phân nhóm:
+ 
+1. Menu lệnh: **Analyse→Reports→Case Summarie**
+2. Đưa biến **cnss** (cân nặng sơ sinh) vào **Variables** và biến **nhomtuoi** vào **Grouping Variable(s)**
+
+![1](https://user-images.githubusercontent.com/82578024/165905722-609692f5-89e1-4b31-9d07-52a25a131688.jpg)
+
+3. Vào **Statictics**, chuyển giá trị cần tìm qua hộp **Cell Statictics**
+
+![1](https://user-images.githubusercontent.com/82578024/165905962-c71d658f-ce3d-4561-9749-6112890d5e88.jpg)
+
+Bấm Continue sau đó bấm Ok
+
+![1](https://user-images.githubusercontent.com/82578024/165906138-6d15f964-9700-47ef-a2ea-92a723240647.jpg)
+
+Tính giá trị trung vị trong các phân nhóm:
+
+Lập lại bước 1 đến 3, sau đó vào hộp **Cell Statictics**
+
+![1](https://user-images.githubusercontent.com/82578024/165906325-a093e45f-7c61-45bb-b3ad-93b91675edf5.jpg)
+
+Bấm Continue rồi bấm Ok
+
+![1](https://user-images.githubusercontent.com/82578024/165906527-5804271d-2287-411a-a060-392d9883eac5.jpg)
+
+5.2.2.2. Tóm tắt bằng biểu đồ Boxplot trong các phân nhóm:
+
+1. Menu lệnh: **Graphs→Legacy Dialogs→Boxplot** và **Summaries for Groups of Cases/Define**
+
+![1](https://user-images.githubusercontent.com/82578024/165906901-364dd1c9-8134-4d89-9466-8bc62cf3ca29.jpg)
+
+Bấm **Define**
+
+![1](https://user-images.githubusercontent.com/82578024/165907019-b65b525b-4a9c-4622-8ea3-964b77b207b8.jpg)
+
+Bấm Ok
+ 
+![1](https://user-images.githubusercontent.com/82578024/165907264-8b8068a3-6771-402f-a215-d849f1c33392.jpg)
+
+5.2.3.	Kiểm định giả thuyết cho giá trị trung bình:
+
+Việc chọn phương pháp kiểm định phụ thuộc hai yếu tố:
+
+1. Giá trị so sánh có tuân theo phân phối chuẩn hay không?
+2. Loại kiểm định giá trị trung bình.
+
+||Phân phối chuẩn|	Phân phối không chuẩn|
+|--|--|--|
+|1. Trung bình với một giá trị|	**One-Sample-T-Test**|	**One-Sample-T-Test**|
+|2. Trung bình của hai nhóm độc lập|	**Independent sample T-Test**|	**Mann-Whitney U-Test, Moses-Test**|
+|3. Trung bình tại hai thời điểm của một nhóm|	**Paired sample T-Test**|	**Wilcoxon-Test**|
+|4. Trung bình của nhiều nhóm|	**One Way ANOVA**|	**Kruskal-Wallis H-Test**|
+|5. Trung bình tại nhiều thời điểm của một nhóm| **MANOVA (Multianlysis of Variances)**|	**Friedman Test**|
+
+5.2.3.1. So sánh giá trị trung bình với một giá trị lý thuyết hoặc giá trị quần thể:
+
+Giả thuyết Ho: Trung bình cân nặng sơ sinh của trẻ trong quần thể, điểm là 2900 gram.
+
+Vì cân nặng sơ sinh tuân theo phân phối chuẩn, áp dụng bảng trên ta áp dụng:
+
+1. Menu lệnh: **Analyse→Compare Means→One-Sample T Test**
+
+![1](https://user-images.githubusercontent.com/82578024/165909332-d2f93bd2-f977-4623-b525-104725f1cf61.jpg)
+
+2. Đưa cnss vào.
+3. Điền 2900 vào ô **Test Value**
+4. Bấm Ok
+
+![1](https://user-images.githubusercontent.com/82578024/165910177-1fbac5ba-51b7-40c0-9f2d-4bd2219488c0.jpg)
+
+Phiên giải: Cân nặng sơ sinh của trẻ là 3021 gram.
+
+Cân nặng sơ sinh của nghiên cứu này so với cân nặng sơ sinh quần thể Việt Nam là 2900 gram, khác biệt có ý nghĩa thống kê (p=.000<.05) 
+
+5.2.3.2. So sánh trung bình của 2 nhóm:
+
+Giả thuyết Ho: Cân nặng sơ sinh của trẻ trai và trẻ gái là như nhau.
+
+Giả sử cân nặng sơ sinh của trẻ trai và trẻ gái đều cỏ phân phổi chuẩn, kiểm định T không ghép cặp hai phía (Independent-Samples T Test) được sử dụng để so sánh điểm trung bình của hai nhóm nam và nữ.
+
+1. Từ menu chọn: **Analyse→ Compare Means→ Independent-Samples T Test** 
+2. Từ danh sách các biến, đánh dấu vào biến phụ thuộc mà bạn muốn phân tích. Trong trường hợp này **cnss** (cân nặng so sinh), và chuyển nó sang ô Test **Variable(s)**.
+3. Từ danh sách các biến, đánh dấu vào biến độc lập mà bạn muốn sử dụng có nghĩa là nhóm mà bạn muốn so sánh, trong trường hợp cụ thề này là **gtinhtre** và chuyển chúng sang ô **Grouping Variable**. 
+
+![1](https://user-images.githubusercontent.com/82578024/165910441-71295307-f113-442a-a781-f6280dc2424b.jpg)
+
+4. Bây giờ bạn xác định các loại trong biến độc lập để cho SPSS hiểu được bạn so sánh cái gỉ (có nghĩa lả nam và nữ). Để làm điều dó, đánh dấu vào biến lập (gtinhtre) và kích vào **Define Groups**. Bạn sẽ thấy một hộp thoại dạng sau. Bạn cần chỉ ra cho SPSS là mã gì là nam, mã gì là nữ? Để làm được điều này bạn nhập mã cho nam (trong cơ sở dữ liệu được mã là 1) vào trong hộp **Group 1** vả mã của nữ (trong cơ sở dữ liệu được mã là 2) vào **Group 2** sau đó kích **Continue**.
+ 
+![2](https://user-images.githubusercontent.com/82578024/165911009-6cf32cce-d948-49f0-8d4a-aea694039182.jpg)
+
+Bấm Ok là xong.
+
+![1](https://user-images.githubusercontent.com/82578024/165911065-93e22ca2-fda0-4f33-a8c9-5aca8c56ce18.jpg)
+
+Từ bảng kết quả **Independent Sample Test**, chúng ta thấy có 2 hàng kết quả để đọc, chúng ta chỉ chọn 1 trong 2, tùy theo kiểm định cho giả định về sự khác  nhau của phương sai. Kết qủa phân tích phương sai của Levene’s Test với p=0.204>0.05, có nghĩa là phương sai ở cân nặng sơ sinh của 2 nhóm trẻ là như nhau. Thõa giả định phương sai bằng nhau ta chọn hàng trên để đọc kết quả. Trong trường hợp ngược lại ta đọc kết quả ở hàng dưới.
+
+Phiên giải: Cân nặng sơ sinh của 2 giới nam và nữ khác biệt có ý nghĩa thống kê p=.000 (tức <0.001), độ lệch chuẩn là 376 gram, khoảng tin cậy 95% (-184.653;-68.082)  
+
+5.2.3.3. So sánh giá trị trung bình 2 thời điểm của một nhóm (Trung bình lập lại)
+
+Giả thuyết Ho: Trung bình cân nặng của trẻ sau 10 ngày không cao hơn cân nặng lúc sinh.
+
+Sự khác biệt về cân nặng sơ sinh và cân nặng sau 10 ngày đã được kiểm tra là có phân phối chuẩn, nên kiểm định T ghép cặp là phù hợp để so sánh trung bình cân nặng qua thời gian.
+
+1. Menu lệnh: **Analyse→Compare Means→Paired-Samples T Test**
+2. Từ danh sách các biến, đánh dấu vào cặp biến cân nặng sau 10 ngày **(cn10ngay)** và cân nặng lúc sinh **(cnss)**. Chuyển chúng vào trong ô **Paired Variables** tương ứng **Variable 1** và **Variable 2**.
+
+![1](https://user-images.githubusercontent.com/82578024/165911648-7ec4712e-8654-40de-9f4e-dc0ad2a89375.jpg)
+
+Bấm Ok
+
+![1](https://user-images.githubusercontent.com/82578024/165911876-86688361-6701-4123-b363-c918604c7729.jpg)
+
+Phiên giải: Sự khác biệt về trung bình cân nặng sau 10 ngày và cân nặng sơ sinh là 251 gram, với khoảng tin cậy 95% sự khác biệt này là 247-254 gram, sự khác biệt này có ý nghĩa thống kê (t702=133.072;p<0.001) 
+
+5.2.3.4. So sánh giá trị trung bình nhiều hơn 2 nhóm.
+
+Giả thuyết Ho: Trung bình cân nặng sơ sinh của trẻ được sinh ở các bà mẹ có độ tuổi khác nhau là như nhau.
+
+Cân nặng sơ sinh của các trẻ được sinh ở các bà mẹ thuộc 3 nhóm tuổi được chứng minh là có phân bố chuẩn nên chứng ta có thể sử dụng phân tích **phương sai ANOVA một chiều**, hai phía để so sánh trung bình cân nặng sơ sinh giữa các trẻ được sinh ra ờ các bà mẹ có mức tuổi khác nhau (3 nhóm).
+
+1. Từ menu chọn: **Analyse→ Compare Means→ One-Way ANOVA**. 
+2. Từ danh sách các biến đánh dấu vào biến phụ thuộc mà bạn muốn phân tích, trong trường hợp này là, **cnss** (cân nặng sơ sinh), và chuyển nó vào ô **Dependent List** 
+3. Từ danh sách các biến, đánh dấu vào biến độc lập mà bạn muốn sử dụng (có nghĩa là các nhóm mà bạn muốn so sánh). Trong trường họp này là **nhomtuoi** (nhóm tuổi mẹ), chuyển nó sang ô **Factor**.
 
 
 
