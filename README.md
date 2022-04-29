@@ -111,4 +111,142 @@ Restart lại máy tính là ok
 
 [Xem Video Phân tích Independent Sample T-Test trên SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/EXe1CGmaWC1GjLlWwStznBABb9q-2B7Hz9KNpDoc9nPWHA?e=bKZdmR)
 
-### [Tài liệu thao khảo, học chay nhé, có file Word mà mất file dữ liệu spss rồi](https://bsthanh-my.sharepoint.com/:w:/g/personal/0914678254_bsthanh_tk/EZR_US6TKftBpUO0_jylb_sBKOItbfO4n-QhqhnvzDULNQ?e=i5DEyU)
+## TỪNG BƯỚC CHINH PHỤC SPSS ##
+
+### I. GIỚI THIỆU:
+
+Thống kê và phân tích số liệu là một khâu rất quan trong trong tiến trình thực hiện các nghiên cứu y học. 
+Trong phạm vi cuốn sách này, chúng tôi giới thiệu những thuật toán thống kê cơ bản nhất thường sử dụng khi viết luận văn, luận án y học. 
+
+### II. MỤC TIÊU: 
+Sử dụng phần mềm SPSS để thực hành nhằm đạt các mục tiêu sau:
+1. Mã hoá được số liệu thích họp cho việc phân tích.
+2. Tạo được biến theo bộ câu hỏi hoặc biểu mẫu nghiên cứu.
+3. Quản lý số liệu: tạo biến mới, chọn tập họp nhỏ các bản ghi, mã hoá lại các biến.
+4. Thưc hiện phân tích và giải thích được các thống kê mô tả: đơn biến, mối liên quan giữa các biến.
+5. Thực hiện phân tích và giải thích được các thống kê suy luận: kiểm định giá trị trung bình, tỷ lệ, tương quan-hồi qui… 
+
+Đây là tài liệu mang tính chất thực hành ứng dụng cao.  
+
+### IV. NỘI DUNG:
+
+**1. Mở và đóng chương trình SPSS:
+
+1.1	Mở chương trình SPSS: nhấp đúp vào biểu tượng SPSS là xong
+
+![1](https://user-images.githubusercontent.com/82578024/165868548-cfe77a92-2566-474e-942d-ebced2bb4e32.jpg)
+
+Chương trình SPSS hiện ra
+ 
+![1](https://user-images.githubusercontent.com/82578024/165868796-29a65751-f053-4b38-ab7a-2ceb5038588f.jpg)
+
+1.2	Đóng chương trình SPSS: nhấn vào dấu x trên góc phải phía trên của chương trình.
+
+**2. Truy xuất tập tin dữ liệu có sẵn:
+
+Chọn câu lệnh: ![1](https://user-images.githubusercontent.com/82578024/165869359-acd2f5ae-40e5-4524-946a-93545be8eb7b.jpg) một họp thoại hiện ra
+
+![1](https://user-images.githubusercontent.com/82578024/165869538-eb18f717-36e5-4170-83c5-4f662ab0605d.jpg)
+
+Chọn đường dẫn vào file có đuôi .sav chọn open là xong.
+
+![1](https://user-images.githubusercontent.com/82578024/165869861-5ca42592-a0b8-4a6b-b84e-d0476a22a3a9.jpg)
+
+**3.	Cách xác định lại biến số:
+
+Biến số có thể phân loại tuỳ theo các yếu tố sau:
+
+Bản chất của biến số:
+
+Biến số thể hiện một đại lượng: là biến số định lượng (quantitative variable):
+
+•	Liên tục: Cân nặng, chiều cao...
+
+•	Rời rạc: số trứng, số con....
+
+Biến số nhằm thể hiện một đặc tính: là biến số định tính.
+
+Được chia làm 3 loại:
+
+•	Biến nhị giá - Binary variable: giới tính…
+
+•	Biến danh định - Nominal variable: nghề nghiệp, trình độ học vấn…
+
+•	Biến thứ tự - Ordinal variable: xếp loại học sinh, tình trạng kinh tế gia đình ...
+    
+Dựa vào mối tương quan giữa các
+
+•	Biến độc lập
+
+•	Biến phụ thuộc
+
+**4.	Mã hóa số liệu:
+
+Mục đích của việc mã hoá số liệu là chuyển đổi thông tin nghiên cứu đã thu thập thành dạng thích hợp cho việc phân tích trên máy tính. Thường thì bạn sẽ sử dụng một bộ câu hỏi hoặc biểu mẫu thu thập số liệu khác nhau để thu thập số liệu. Để đưa ra được những kết luận từ nghiên cứu của mình, bạn sẽ phải tóm tắt các kết quả của cuộc điều tra. Hầu hết các nghiên cứu đều liên quan đến một số lượng lớn các đối tượng tham gia, các thông tin từ bộ câu hỏi và các phiếu điều tra được nhập vào SPSS để cho tất cả các số liệu đã thu thập được lưu trữ và xừ lý một cách thuận tiện. Phần mềm thống kê thường có dạng bảng tính và số liệu phải được nhập vào các bảng tính này. Một bảng tính là một định nghĩa tương đối, về thực chất nó là phần hiển thị trên màn hình với những đường kẻ trong đó. Các chữ số và các ký tự có thể được đánh máy trong từng ô. Khác với những phần mềm bảng tính thông dụng như EXCEL®, các phần mềm phân tích thống kê thường có những giới hạn chặt chẽ hơn trong việc nhập liệu vào những ô này. Trong hầu hết các tệp số liệu, thông tin cho từng đối tượng quan sát được nhập trên một hàng của bảng tính. Các cột cùa bảng tính tương ứng với các câu hỏi trong bộ câu hỏi công cụ thu thập số liệu. Một câu trà lời của một đối tượng được mã trên một ô của bảng tính (ví dụ một ô = một câu trả lời và tất cả các câu trả lời cho một câu hỏi nằm trên một hàng dọc dưới cột tương ứng). Các câu trả lời nên được mã hoá bằng số càng nhiều càng tốt và ta nên hạn chế việc dùng mã bằng các ký tự.
+
+Ví dụ:
+
+	Lưu ý ràng trong khi tên cột có thể là bất kỳ tên gì bạn muốn, hầu hết các phần mềm thống kê quy định chặt chẽ về độ dài và dạng. Để phù hợp, hãy dùng dấu gạch dưới vào tên biến dài hơn 8 ký tự, không để khoảng trống giữa các từ (ví dụ ‘h_id’ thay cho ‘household id'X không bắt đầu bàng một con số (cho dù ký tự số có thể dùng ở bất kỳ vị trí nào khác trong tên cột), và không bao giờ chứa các ký tự đặc biệt (*, /, 11). Nếu bạn thiết kế bộ câu hỏi một cách đúng đắn, hầu hết các bảng câu hỏi sẽ dễ dàng có thể được mã bằng chữ số.
+
+|Biến|Mô tả|Giá trị mã và ý nghĩa|
+|--|--|--|
+|maso|Mã số thai phụ|Giá trị từ 1 đến 703|
+|tentp|Họ tên thai phụ||
+|tuoi|	Tuổi thai phụ	|Từ 17 đến 45|
+|hocvan|	Học vấn của thai phụ|0: mù chữ 1: cấp 1, 2: cấp 2, 3: cấp 3, 4: đại học và sau đại học|
+|nghe|	Nghề nghiệp của thai phụ|1: nông dân, 2: công nhân, 3: thợ may, 4: buôn bán, 5: công nhân viên, 6: nội trợ, 7. Nghề khác|
+
+Để tạo ra biến cho việc nhập liệu theo bộ câu hỏi trên, bạn thực hiện theo các cách sau:
+
+**1.	Vào Variable View
+
+![1](https://user-images.githubusercontent.com/82578024/165871330-769e0378-77f1-4c70-92e9-a9fca7858fbe.jpg)
+
+Mở cửa sổ số liệu trong SPSS, chọn Variable view ở góc dưới trái màn hình. Bạn sẽ thấy toàn bộ các tên cột từ trái qua phải ở phía trên màn hình gồm có: Name (tên biến), Type (kiểu biến), Width (Độ rộng của biến), Decimals (số thập phân), Label (nhãn biến), Values (các giá trị), Missing (giá trị khuyết), Columns (độ rộng của cột), Align (canh lề), Measure (kiểu đo lường)
+
+**2.	Đặt tên biến đầu tiên là maso ở cột Name, kiểu biến dạng số, độ rộng của biến là 8, không có số thập phân và nhãn của biến là Mã số thài phụ. 
+
+Các biến nhập tương tự
+
+
+**3.	Nhập số liệu:
+
+Một bộ câu hỏi hay một biểu mẫu số liệu được mã hoá dưới dạng số, chúng cần được nhập vào máy tính để chuân bị cho phân tích số liệu. Phần nhập số liệu yêu cầu con người dùng tay và mắt để chuyển những thông tin, vì thế có thể xảy ra các lỗi đánh máy. Để hạn chế mức thấp nhất sai lầm này, có một gợi ý đưa ra là tất cả số liệu nên được nhập hai lần, mỗi lần là một người khác nhau. Bất kỳ một sự khác nhau nào giữa hai bản số liệu cũng cần phải được lưu ý và phải được kiểm tra dựa trên bản số liệu gốc hoặc nếu có thể đối chiếu với đối tượng phỏng vắn. Nhập số liệu hai lần do hai người độc lập là lý tưởng, nó sẽ làm hạn chế tối đa các lỗi khi đọc và lỗi đánh máy. Ví dụ, chữ viết tay đôi khi không dễ đọc, một người có thể đọc là ‘3’, nhưng người thứ hai có thể đọc lả 5 Sự khác nhau này sẻ được kiểm tra và mã số đúng sẽ được chọn.
+
+Nhập số liệu hai lần tốn nhiều thời gian, và đắt tiền. Rất khó thực hiện trên thực tế và đôi khi không cần thiết nếu chương trình nhập liệu được viết và có nhiều chức năng kiểm tra quá trình nhập liệu. Dưới đây là các chiến lược nhập số liệu cho bạn lựa chọn.
+
+i.	Nhập toàn bộ số liệu hai lần bởi hai người riêng biệt.
+ii.	Nhập toàn bộ số liệu hai lần do một người thực hiện.
+iii.	Nhập toàn bộ số liệu một lần, sau đó chọn ngẫu nhiên đơn khoảng 20% bộ số liệu và nhập lần 2. Nếu những sự khác nhau là tối thiểu, dừng lạì. Nếu không cần phải cân nhắc (ii).
+iv.	     Nhập toàn bộ số liệu 1 lần, chọn ngẫu nhiên đơn khoảng 20% bộ số liệu, kiểm tra lại bằng mắt. Nếu những sự khác nhau là tối thiểu, dừng lại. "Nếu không cần phải cân nhắc (ỉi).
+v.	Nhập toàn bộ số liệu một lần, không kiểm tra hai lần. Không có đề nghị gì.
+
+**4.	Quản lý số liệu:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
