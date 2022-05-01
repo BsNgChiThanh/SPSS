@@ -1,5 +1,5 @@
 # SPSS #
-`written by BsCK1. Nguyen Chi Thanh`
+`Written by BsCK1. Nguyen Chi Thanh`
 
 [Trang chủ IBM SPSS](https://www.ibm.com/analytics/spss-trials)
 
