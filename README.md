@@ -1,5 +1,5 @@
-# SPSS
-SPSS là một phần mềm thống kê khá nổi tiếng
+# SPSS #
+`written by BsCK1. Nguyen Chi Thanh`
 
 [Trang chủ IBM SPSS](https://www.ibm.com/analytics/spss-trials)
 
