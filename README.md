@@ -17,15 +17,20 @@ Download SPSS 28 bản dùng thử từ trang chủ, chưa có file crack!
 
 **[SPSS 24](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ep6umM9FLiVFl4eY_mo5lGMBEMyqN3bMsyahaS3OLTW8Tw?e=1qHkck)**
 
+**[SPSS 23](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiFmqPfNqVZKlapXG6kD3XgB780P761_agJ4HcnbbqNdiQ?e=j8eksa)**
+
 **[SPSS 22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmR5sST4LpVCqoID9-8xL3oB2aFjuASt34HGKuzbuq4ZKw?e=CwpKXK)**
 
 # CÁCH CÀI ĐẶT #
 
 ## CÀI ĐẶT SPSS 26 ##
 
-Tải về cài đặt như bình thường, cài xong nạp [key tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_tk/EY6ttGA7Y7NPqBoJ4XcnulIBy1P32juvDSJ-js5MSgOejw?e=6tusm5)
+Tải về cài đặt như bình thường.
 
-Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcrufC-RZyJEjitCLdiEzzIB6cT2OaOY4R0besZUrfPSMw?e=iLJChb) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\26
+**Có 2 cách kích hoạt, làm cách nào cũng được:**
+
+1. cài xong nạp [key tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_tk/EY6ttGA7Y7NPqBoJ4XcnulIBy1P32juvDSJ-js5MSgOejw?e=6tusm5)
+2. Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcrufC-RZyJEjitCLdiEzzIB6cT2OaOY4R0besZUrfPSMw?e=iLJChb) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\26
 
 Restart lại máy tính là ok
 
