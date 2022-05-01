@@ -23,7 +23,7 @@ Download SPSS 28 bản dùng thử từ trang chủ, chưa có file crack!
 
 # CÁCH CÀI ĐẶT #
 
-## CÀI ĐẶT SPSS 26 ##
+## `CÀI ĐẶT SPSS 26` ##
 
 Tải về cài đặt như bình thường.
 
@@ -193,7 +193,7 @@ Mục đích của việc mã hoá số liệu là chuyển đổi thông tin ng
 
 **Ví dụ:**
 
-	Lưu ý ràng trong khi tên cột có thể là bất kỳ tên gì bạn muốn, hầu hết các phần mềm thống kê quy định chặt chẽ về độ dài và dạng. Để phù hợp, hãy dùng dấu gạch dưới vào tên biến dài hơn 8 ký tự, không để khoảng trống giữa các từ (ví dụ ‘h_id’ thay cho ‘household id'X không bắt đầu bàng một con số (cho dù ký tự số có thể dùng ở bất kỳ vị trí nào khác trong tên cột), và không bao giờ chứa các ký tự đặc biệt (*, /, 11). Nếu bạn thiết kế bộ câu hỏi một cách đúng đắn, hầu hết các bảng câu hỏi sẽ dễ dàng có thể được mã bằng chữ số.
+Lưu ý ràng trong khi tên cột có thể là bất kỳ tên gì bạn muốn, hầu hết các phần mềm thống kê quy định chặt chẽ về độ dài và dạng. Để phù hợp, hãy dùng dấu gạch dưới vào tên biến dài hơn 8 ký tự, không để khoảng trống giữa các từ (ví dụ ‘h_id’ thay cho ‘household id'X không bắt đầu bàng một con số (cho dù ký tự số có thể dùng ở bất kỳ vị trí nào khác trong tên cột), và không bao giờ chứa các ký tự đặc biệt (*, /, 11). Nếu bạn thiết kế bộ câu hỏi một cách đúng đắn, hầu hết các bảng câu hỏi sẽ dễ dàng có thể được mã bằng chữ số.
 
 |Biến|Mô tả|Giá trị mã và ý nghĩa|
 |--|--|--|
@@ -221,17 +221,15 @@ Các biến nhập tương tự
 
 Một bộ câu hỏi hay một biểu mẫu số liệu được mã hoá dưới dạng số, chúng cần được nhập vào máy tính để chuân bị cho phân tích số liệu. Phần nhập số liệu yêu cầu con người dùng tay và mắt để chuyển những thông tin, vì thế có thể xảy ra các lỗi đánh máy. Để hạn chế mức thấp nhất sai lầm này, có một gợi ý đưa ra là tất cả số liệu nên được nhập hai lần, mỗi lần là một người khác nhau. **Bất kỳ một sự khác nhau nào giữa hai bản số liệu cũng cần phải được lưu ý và phải được kiểm tra dựa trên bản số liệu gốc hoặc nếu có thể đối chiếu với đối tượng phỏng vấn**. Nhập số liệu hai lần do hai người độc lập là lý tưởng, nó sẽ làm hạn chế tối đa các lỗi khi đọc và lỗi đánh máy. Ví dụ, chữ viết tay đôi khi không dễ đọc, một người có thể đọc là ‘3’, nhưng người thứ hai có thể đọc lả 5 Sự khác nhau này sẻ được kiểm tra và mã số đúng sẽ được chọn.
 
-Nhập số liệu hai lần tốn nhiều thời gian, và đắt tiền. Rất khó thực hiện trên thực tế và đôi khi không cần thiết nếu chương trình nhập liệu được viết và có nhiều chức năng kiểm tra quá trình nhập liệu. Dưới đây là các chiến lược nhập số liệu cho bạn lựa chọn.
+**Nhập số liệu hai lần tốn nhiều thời gian, và đắt tiền. Rất khó thực hiện trên thực tế và đôi khi không cần thiết nếu chương trình nhập liệu được viết và có nhiều chức năng kiểm tra quá trình nhập liệu. Dưới đây là các chiến lược nhập số liệu cho bạn lựa chọn.**
 
-i.	Nhập toàn bộ số liệu hai lần bởi hai người riêng biệt.
-
-ii.	Nhập toàn bộ số liệu hai lần do một người thực hiện.
-
-iii.	Nhập toàn bộ số liệu một lần, sau đó chọn ngẫu nhiên đơn khoảng 20% bộ số liệu và nhập lần 2. Nếu những sự khác nhau là tối thiểu, dừng lạì. Nếu không cần phải cân nhắc (ii).
-
-iv.	Nhập toàn bộ số liệu 1 lần, chọn ngẫu nhiên đơn khoảng 20% bộ số liệu, kiểm tra lại bằng mắt. Nếu những sự khác nhau là tối thiểu, dừng lại. "Nếu không cần phải cân nhắc (ỉi).
-
-v.	Nhập toàn bộ số liệu một lần, không kiểm tra hai lần. Không có đề nghị gì.
+|STT| Cách thức tiến hành|
+| -- | -- |
+|1|	Nhập toàn bộ số liệu hai lần bởi hai người riêng biệt|
+|2|	Nhập toàn bộ số liệu hai lần do một người thực hiện|
+|3|	Nhập toàn bộ số liệu một lần, sau đó chọn ngẫu nhiên đơn khoảng 20% bộ số liệu và nhập lần 2. Nếu những sự khác nhau là tối thiểu, dừng lại. Nếu không cần phải cân nhắc (2)|
+|4|	Nhập toàn bộ số liệu 1 lần, chọn ngẫu nhiên đơn khoảng 20% bộ số liệu, kiểm tra lại bằng mắt. Nếu những sự khác nhau là tối thiểu, dừng lại. Nếu không cần phải cân nhắc (2)|
+|5|	Nhập toàn bộ số liệu một lần, không kiểm tra hai lần. Không có đề nghị gì|
 
 **4.	Quản lý số liệu:**
 
