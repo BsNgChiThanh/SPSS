@@ -9,7 +9,7 @@ SPSS là một phần mềm thống kê khá nổi tiếng
 
 Download SPSS 28 bản dùng thử từ trang chủ, chưa có file crack!
 
-**Các bản Crack thành công 100%
+**Các bản Crack thành công 100%**
 
 **[SPSS 26](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqjZGHyXOnlJvnN6QCgA0KkB73FDflwW4O43pQrKR1KKcA?e=qWsWnk)**
 
