@@ -40,6 +40,38 @@ Restart lại máy tính là ok
 
 [Hướng dẫn sử dụng phần mềm SPSS bấm vào đây](https://bsthanh-my.sharepoint.com/:b:/g/personal/0914678254_bsthanh_tk/EZ9j5gox7xhKh5wrTcOSIFoB_YEwkyuQSxmVsnV63uPZYA?e=fAdJYX)
 
+### MỘT SỐ HÌNH ẢNH CÀI ĐẶT ###
+
+**Bắt đầu cài đặt**
+
+<img width="492" alt="1" src="https://user-images.githubusercontent.com/82578024/166176220-57c92ae3-73ee-471c-b148-869f883b7cf5.png">
+
+<img width="352" alt="2" src="https://user-images.githubusercontent.com/82578024/166176241-1750ac0b-b96a-42d2-b7f1-905eaf99b7c9.png">
+
+<img width="352" alt="3" src="https://user-images.githubusercontent.com/82578024/166176268-b60acc2d-5b2a-49db-b792-d83c73805580.png">
+
+<img width="351" alt="4" src="https://user-images.githubusercontent.com/82578024/166176287-32c66e23-8d96-4067-b1e1-8947c71f0e43.png">
+
+<img width="352" alt="5" src="https://user-images.githubusercontent.com/82578024/166176300-daa4bc40-3f1f-4b12-ac40-3c2b026756e0.png">
+
+<img width="350" alt="6" src="https://user-images.githubusercontent.com/82578024/166176310-d1e4381a-0726-4009-8a65-15d43a4ea24d.png">
+
+<img width="351" alt="7" src="https://user-images.githubusercontent.com/82578024/166176320-c00bd30e-7e3e-40c5-8e95-22e0f07977fe.png">
+
+<img width="352" alt="8" src="https://user-images.githubusercontent.com/82578024/166176336-810217d9-ef6e-4b80-af25-d1bd8b35ac16.png">
+
+**Kích hoạt cách 1 bằng nạp key**
+
+![11](https://user-images.githubusercontent.com/82578024/166176449-13b9f25c-5364-4409-8c14-14d3f440da46.png)
+
+![12](https://user-images.githubusercontent.com/82578024/166176465-0add2e57-37b0-449b-8399-9826eaa3c2fa.jpg)
+
+**Kích hoạt bằng copy file lservic dán**
+
+<img width="383" alt="9 copy" src="https://user-images.githubusercontent.com/82578024/166176543-3af419f3-ba31-4858-bb75-69fee75beeb3.png">
+
+<img width="541" alt="10 pas" src="https://user-images.githubusercontent.com/82578024/166176560-44ee9314-f080-4eaf-badd-3fdd2e29774d.png">
+
 ## HƯỚNG DẪN SỬ DỤNG SPSS TRONG NGHIÊN CỨU KHOA HỌC ([Lấy từ trang Phạm Lộc Blog](https://www.phamlocblog.com/)) ##
 
 ### Phần 1: Bảy thuật ngữ thống kê trong nghiên cứu: ###
