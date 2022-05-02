@@ -38,7 +38,7 @@ Tải về cài đặt như bình thường.
 
 Restart lại máy tính là ok
 
-### Các version khác cài tương tự ###
+### Các version khác cài tương tự hoặc có hướng dẫn bên trong ###
 
 [Thay đổi ngôn ngữ trong SPSS](https://bsthanh-my.sharepoint.com/:w:/g/personal/0914678254_bsthanh_tk/EeDfMJrgaqNKjY3nf-hGWwUBxlmG-46gNHtIeNBAxO5_8A?e=B8M68y)
 
