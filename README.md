@@ -62,9 +62,13 @@ Restart lại máy tính là ok
 
 **Kích hoạt cách 1 bằng nạp key**
 
-![11](https://user-images.githubusercontent.com/82578024/166176449-13b9f25c-5364-4409-8c14-14d3f440da46.png)
+![Picture1](https://user-images.githubusercontent.com/82578024/166202397-3aaf7565-79f3-4dd2-b302-9e22f6ca76ae.jpg)
 
-![12](https://user-images.githubusercontent.com/82578024/166176465-0add2e57-37b0-449b-8399-9826eaa3c2fa.jpg)
+![Picture2](https://user-images.githubusercontent.com/82578024/166202422-7d272c9b-561b-4d2e-afc0-9dab6e916801.jpg)
+
+![Picture3](https://user-images.githubusercontent.com/82578024/166202441-9eb882a6-c06a-4954-98b9-f375e72a0204.jpg)
+
+![Picture4](https://user-images.githubusercontent.com/82578024/166202464-9b0a0952-9a8b-43b1-b525-c0615c3c11d9.jpg)
 
 **Kích hoạt bằng copy file lservic dán**
 
