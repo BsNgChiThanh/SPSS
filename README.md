@@ -60,17 +60,23 @@ Restart lại máy tính là ok
 
 <img width="352" alt="8" src="https://user-images.githubusercontent.com/82578024/166176336-810217d9-ef6e-4b80-af25-d1bd8b35ac16.png">
 
-**Kích hoạt cách 1 bằng nạp key**
+**Kích hoạt cách 1:**
+
+- **Nạp code:**
 
 ![Picture1](https://user-images.githubusercontent.com/82578024/166202397-3aaf7565-79f3-4dd2-b302-9e22f6ca76ae.jpg)
 
 ![Picture2](https://user-images.githubusercontent.com/82578024/166202422-7d272c9b-561b-4d2e-afc0-9dab6e916801.jpg)
 
+- **Hoặc nạp license key:**
+
 ![Picture3](https://user-images.githubusercontent.com/82578024/166202441-9eb882a6-c06a-4954-98b9-f375e72a0204.jpg)
 
 ![Picture4](https://user-images.githubusercontent.com/82578024/166202464-9b0a0952-9a8b-43b1-b525-c0615c3c11d9.jpg)
 
-**Kích hoạt bằng copy file lservic dán**
+**Kích hoạt cách 2:**
+
+- **Copy file lservic dán:**
 
 <img width="383" alt="9 copy" src="https://user-images.githubusercontent.com/82578024/166176543-3af419f3-ba31-4858-bb75-69fee75beeb3.png">
 
