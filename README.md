@@ -21,6 +21,8 @@ Download SPSS 28 bản dùng thử từ trang chủ, chưa có file crack!
 
 **[SPSS 22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmR5sST4LpVCqoID9-8xL3oB2aFjuASt34HGKuzbuq4ZKw?e=CwpKXK)**
 
+**[SPSS 20](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EkIn1VLo01FIq0sP7soeOZQB_BC4XxY5talspCWmr-cDmw?e=8YAR5u)**
+
 **[SPSS 18](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVI5DaChUj9Kk2ut2DbHbHUBmYjs_zQwPX4ouZJmu6esXw?e=m8B1yt)**
 
 # CÁCH CÀI ĐẶT #
