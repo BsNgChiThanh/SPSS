@@ -42,6 +42,20 @@ Restart lại máy tính là ok
 
 [Thay đổi ngôn ngữ trong SPSS](https://bsthanh-my.sharepoint.com/:w:/g/personal/0914678254_bsthanh_tk/EeDfMJrgaqNKjY3nf-hGWwUBxlmG-46gNHtIeNBAxO5_8A?e=B8M68y)
 
+![Picture1](https://user-images.githubusercontent.com/82578024/166340240-8a9cfd14-b7c2-4096-991a-fd4f80016563.jpg)
+
+![Picture2](https://user-images.githubusercontent.com/82578024/166340265-bce9c39e-d348-42fc-86ff-630907f2851e.jpg)
+
+**Giả sử như bạn cài nhầm SPSS Tiếng Trung Quốc, bạn muốn chuyển qua Tiếng Anh, làm theo ảnh sau:**
+
+![Picture1](https://user-images.githubusercontent.com/82578024/166340521-e48ea64f-7e66-4d18-a4f2-92f9bca41bbd.jpg)
+
+![Picture2](https://user-images.githubusercontent.com/82578024/166340538-c0cd375d-33ea-4383-8a6a-0a38d5d29886.jpg)
+
+![Picture3](https://user-images.githubusercontent.com/82578024/166340546-58b4c029-8e5e-4b72-86b4-248efd3c68d3.jpg)
+
+![Picture4](https://user-images.githubusercontent.com/82578024/166340601-924ab986-7dbd-4434-ba30-af3b09f3bd70.jpg)
+
 [Hướng dẫn sử dụng phần mềm SPSS bấm vào đây](https://bsthanh-my.sharepoint.com/:b:/g/personal/0914678254_bsthanh_tk/EZ9j5gox7xhKh5wrTcOSIFoB_YEwkyuQSxmVsnV63uPZYA?e=fAdJYX)
 
 ### MỘT SỐ HÌNH ẢNH CÀI ĐẶT ###
