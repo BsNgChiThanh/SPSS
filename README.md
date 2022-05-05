@@ -7,29 +7,38 @@
 
 # DOWNLOAD SOURCE #
 
-Download SPSS 28 bản dùng thử từ trang chủ, chưa có file crack!
+**Download SPSS 28 bản dùng thử từ trang chủ, chưa có file crack!**
+
+**Để sử dụng được bản dùng thử 30 ngày, bạn vào trang chủ đăng kí tài khoản SPSS, download load bản dùng thử về, cài đặt xong, nhập tài khoản SPSS của mình vào đấy là sử dụng được, OK**
+
+![Screenshot 2022-05-05 082259](https://user-images.githubusercontent.com/82578024/166851507-279da110-ff38-408a-9485-895960c5690b.png)
+
+
+**Bản dùng thử 30 ngày**
+
+|Version Click vào để download|Windows|Mac|
+| -- | -- | -- |
+|**[SPSS 28](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Eib55qeCgf1KoCYYpoobmQsBMwXisINNaG3sI4DDSn85LA?e=qTUJ5S)**|x|x|
 
 **Các bản Crack thành công 100%, thời hạn sử dụng vĩnh viễn!!!**
 
-**[SPSS 26](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqjZGHyXOnlJvnN6QCgA0KkB73FDflwW4O43pQrKR1KKcA?e=qWsWnk)**
-
-**[SPSS 25](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhvRaxCXcExJuvsEbndv8DIBdBDEthreT7RSATXMREz9qg?e=aEIkaZ)**
-
-**[SPSS 24](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ep6umM9FLiVFl4eY_mo5lGMBEMyqN3bMsyahaS3OLTW8Tw?e=1qHkck)**
-
-**[SPSS 23](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiFmqPfNqVZKlapXG6kD3XgB780P761_agJ4HcnbbqNdiQ?e=j8eksa)**
-
-**[SPSS 22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmR5sST4LpVCqoID9-8xL3oB2aFjuASt34HGKuzbuq4ZKw?e=CwpKXK)**
-
-**[SPSS 20](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EkIn1VLo01FIq0sP7soeOZQB_BC4XxY5talspCWmr-cDmw?e=8YAR5u)**
-
-**[SPSS 18](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVI5DaChUj9Kk2ut2DbHbHUBmYjs_zQwPX4ouZJmu6esXw?e=m8B1yt)**
+|Version Click vào để download|Windows|Mac|
+| -- | -- | -- |
+|**[SPSS 26](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqjZGHyXOnlJvnN6QCgA0KkB73FDflwW4O43pQrKR1KKcA?e=qWsWnk)**|x|x|
+|**[SPSS 25](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhvRaxCXcExJuvsEbndv8DIBdBDEthreT7RSATXMREz9qg?e=aEIkaZ)**|x||
+|**[SPSS 24](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ep6umM9FLiVFl4eY_mo5lGMBEMyqN3bMsyahaS3OLTW8Tw?e=1qHkck)**|x||
+|**[SPSS 23](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiFmqPfNqVZKlapXG6kD3XgB780P761_agJ4HcnbbqNdiQ?e=j8eksa)**|x||
+|**[SPSS 22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmR5sST4LpVCqoID9-8xL3oB2aFjuASt34HGKuzbuq4ZKw?e=CwpKXK)**|x||
+|**[SPSS 20](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EkIn1VLo01FIq0sP7soeOZQB_BC4XxY5talspCWmr-cDmw?e=8YAR5u)**|x||
+|**[SPSS 18](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVI5DaChUj9Kk2ut2DbHbHUBmYjs_zQwPX4ouZJmu6esXw?e=m8B1yt)**|x||
 
 # CÁCH CÀI ĐẶT #
 
 ## `CÀI ĐẶT SPSS 26` ##
 
-Tải về cài đặt như bình thường.
+![1](https://user-images.githubusercontent.com/82578024/166849961-14f336d0-dc70-471e-9635-d0222982e77c.jpg)
+
+## Tải về cài đặt như bình thường ##
 
 **Có 2 cách kích hoạt, làm cách nào cũng được:**
 
