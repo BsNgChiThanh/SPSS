@@ -1,7 +1,7 @@
 # SPSS #
 `Written by BsCK1. Nguyen Chi Thanh`
 
-[Trang chủ IBM SPSS](https://www.ibm.com/analytics/spss-trials)
+[Trang chủ IBM SPSS](https://myibm.ibm.com/products-services/manage/508392764/downloads)
 
 ![1](https://user-images.githubusercontent.com/82578024/165245052-12c25537-d3a4-4012-9cb2-fe2581d492ce.jpg)
 
