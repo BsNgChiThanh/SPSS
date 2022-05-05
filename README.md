@@ -30,6 +30,7 @@
 |**[SPSS 23](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiFmqPfNqVZKlapXG6kD3XgB780P761_agJ4HcnbbqNdiQ?e=j8eksa)**|x||
 |**[SPSS 22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmR5sST4LpVCqoID9-8xL3oB2aFjuASt34HGKuzbuq4ZKw?e=CwpKXK)**|x||
 |**[SPSS 20](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EkIn1VLo01FIq0sP7soeOZQB_BC4XxY5talspCWmr-cDmw?e=8YAR5u)**|x||
+|**[SPSS 19](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EqnCAgrcTh9PntMzggHppWYBQHYalfkK8XLVCaZPsblvFA?e=J3Xlni)**|x||
 |**[SPSS 18](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVI5DaChUj9Kk2ut2DbHbHUBmYjs_zQwPX4ouZJmu6esXw?e=m8B1yt)**|x||
 
 # CÁCH CÀI ĐẶT #
