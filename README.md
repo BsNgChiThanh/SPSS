@@ -5,7 +5,7 @@
 
 ![1](https://user-images.githubusercontent.com/82578024/165245052-12c25537-d3a4-4012-9cb2-fe2581d492ce.jpg)
 
-# DOWNLOAD SOURCE #
+# TẢI SOURCE (SẼ CẬP NHẬT THƯỜNG XUYÊN) #
 
 **Download SPSS 28 bản dùng thử từ trang chủ, chưa có file crack!**
 
