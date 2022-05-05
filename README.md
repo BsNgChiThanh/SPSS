@@ -25,7 +25,7 @@
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
 |**[SPSS 26](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqjZGHyXOnlJvnN6QCgA0KkB73FDflwW4O43pQrKR1KKcA?e=qWsWnk)**|x|x|
-|**[SPSS 25](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhvRaxCXcExJuvsEbndv8DIBdBDEthreT7RSATXMREz9qg?e=aEIkaZ)**|x||
+|**[SPSS 25](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhvRaxCXcExJuvsEbndv8DIBdBDEthreT7RSATXMREz9qg?e=aEIkaZ)**|x|x|
 |**[SPSS 24](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ep6umM9FLiVFl4eY_mo5lGMBEMyqN3bMsyahaS3OLTW8Tw?e=1qHkck)**|x||
 |**[SPSS 23](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiFmqPfNqVZKlapXG6kD3XgB780P761_agJ4HcnbbqNdiQ?e=j8eksa)**|x||
 |**[SPSS 22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmR5sST4LpVCqoID9-8xL3oB2aFjuASt34HGKuzbuq4ZKw?e=CwpKXK)**|x||
