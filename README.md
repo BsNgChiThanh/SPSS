@@ -18,6 +18,7 @@
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
 |**[SPSS 28](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Eib55qeCgf1KoCYYpoobmQsBMwXisINNaG3sI4DDSn85LA?e=qTUJ5S)**|x|x|
+|**[SPSS 27](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtYbqtgC0yVChnOVx4lOJEwBQvxke0nTknq6CaXBQRFKMQ?e=becQFG)**|x|x|
 
 **Các bản Crack thành công 100%, thời hạn sử dụng vĩnh viễn!!!**
 
