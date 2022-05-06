@@ -49,8 +49,7 @@
 
 Restart lại máy tính là ok
 
-### Các version khác cài tương tự hoặc có hướng dẫn bên trong, các bản cũ thì copy toàn bộ file trong EQX của chương trình crack dán đè vào thư mục EQX cài đặt trong ổ C ###
-
+### Các version khác cài tương tự hoặc có hướng dẫn bên trong, các bản cũ ví dụ SPSS18 thì copy toàn bộ file trong EQX của chương trình crack dán đè vào thư mục C:\\Program Files (x86)\SpssInc\SPSWStatistics18 ##
 [Thay đổi ngôn ngữ trong SPSS](https://bsthanh-my.sharepoint.com/:w:/g/personal/0914678254_bsthanh_tk/EeDfMJrgaqNKjY3nf-hGWwUBxlmG-46gNHtIeNBAxO5_8A?e=B8M68y)
 
 ![Picture1](https://user-images.githubusercontent.com/82578024/166340240-8a9cfd14-b7c2-4096-991a-fd4f80016563.jpg)
