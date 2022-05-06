@@ -49,7 +49,7 @@
 
 Restart lại máy tính là ok
 
-### Các version khác cài tương tự hoặc có hướng dẫn bên trong ###
+### Các version khác cài tương tự hoặc có hướng dẫn bên trong, các bản cũ thì copy toàn bộ file trong EQX của chương trình crack dán đè vào thư mục EQX cài đặt trong ổ C ###
 
 [Thay đổi ngôn ngữ trong SPSS](https://bsthanh-my.sharepoint.com/:w:/g/personal/0914678254_bsthanh_tk/EeDfMJrgaqNKjY3nf-hGWwUBxlmG-46gNHtIeNBAxO5_8A?e=B8M68y)
 
