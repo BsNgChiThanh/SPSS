@@ -11,6 +11,7 @@
 
 ![Screenshot 2022-05-05 082259](https://user-images.githubusercontent.com/82578024/166851507-279da110-ff38-408a-9485-895960c5690b.png)
 
+![Doc1](https://user-images.githubusercontent.com/82578024/167115846-048e6e59-c5e5-4ff1-abe4-9c3d77e3b2de.jpg)
 
 **Bản dùng thử 30 ngày đã tải sẵn:**
 
