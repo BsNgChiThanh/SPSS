@@ -7,8 +7,6 @@
 
 # TẢI SOURCE (SẼ CẬP NHẬT THƯỜNG XUYÊN) #
 
-**Download SPSS 28 bản dùng thử từ trang chủ, chưa có file crack!**
-
 **Để sử dụng được bản dùng thử 30 ngày, bạn vào trang chủ đăng kí tài khoản SPSS, download load bản dùng thử về, cài đặt để trải nghiệm**
 
 ![Screenshot 2022-05-05 082259](https://user-images.githubusercontent.com/82578024/166851507-279da110-ff38-408a-9485-895960c5690b.png)
