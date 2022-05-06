@@ -1,7 +1,7 @@
 # SPSS #
 `Written by BsCK1. Nguyen Chi Thanh`
 
-[Trang chủ IBM SPSS](https://myibm.ibm.com/products-services/manage/508392764/downloads)
+[Trang chủ IBM SPSS](https://myibm.ibm.com/products-services/manage/508392764/downloads), tạo tài khoản IBM SPSS để bắt đầu trải nghiệm!
 
 ![1](https://user-images.githubusercontent.com/82578024/165245052-12c25537-d3a4-4012-9cb2-fe2581d492ce.jpg)
 
