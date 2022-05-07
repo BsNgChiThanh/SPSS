@@ -18,12 +18,12 @@
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
 |**[SPSS 28](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Eib55qeCgf1KoCYYpoobmQsBMwXisINNaG3sI4DDSn85LA?e=qTUJ5S)**|x|x|
-|**[SPSS 27](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtYbqtgC0yVChnOVx4lOJEwBQvxke0nTknq6CaXBQRFKMQ?e=becQFG)**|x|x|
 
 **Các bản Crack thành công 100%, thời hạn sử dụng vĩnh viễn!!!**
 
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
+|**[SPSS 27](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtYbqtgC0yVChnOVx4lOJEwBQvxke0nTknq6CaXBQRFKMQ?e=becQFG)**|x|x|
 |**[SPSS 26](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqjZGHyXOnlJvnN6QCgA0KkB73FDflwW4O43pQrKR1KKcA?e=qWsWnk)**|x|x|
 |**[SPSS 25](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhvRaxCXcExJuvsEbndv8DIBdBDEthreT7RSATXMREz9qg?e=aEIkaZ)**|x|x|
 |**[SPSS 24](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ep6umM9FLiVFl4eY_mo5lGMBEMyqN3bMsyahaS3OLTW8Tw?e=1qHkck)**|x||
