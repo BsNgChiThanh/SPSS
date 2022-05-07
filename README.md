@@ -44,8 +44,8 @@
 
 **Có 2 cách kích hoạt, làm cách nào cũng được:**
 
-1. cài xong nạp [key tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_tk/EY6ttGA7Y7NPqBoJ4XcnulIBy1P32juvDSJ-js5MSgOejw?e=6tusm5)
-2. Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcrufC-RZyJEjitCLdiEzzIB6cT2OaOY4R0besZUrfPSMw?e=iLJChb) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
+1. cài xong nạp [key tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_tk/ETX_JEhz6w9GkqdhsdyFMSwBhoGeUGWF6Sy8nprfeWO8tQ?e=mhJxEo)
+2. Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVxztiwCSsFMj3bPLYq-9ZsB8tWQM54VWvSr7AoRsKroMg?e=dg1kQD) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
 
 Restart lại máy tính là ok
 
