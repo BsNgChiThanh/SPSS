@@ -36,16 +36,16 @@
 
 # CÁCH CÀI ĐẶT #
 
-## `CÀI ĐẶT SPSS 26` ##
+## `CÀI ĐẶT SPSS 27` ##
 
-![1](https://user-images.githubusercontent.com/82578024/166849961-14f336d0-dc70-471e-9635-d0222982e77c.jpg)
+![base27-largest-1-1](https://user-images.githubusercontent.com/82578024/167275319-22bf9c9c-5604-401b-a3ef-bf91498c41d6.jpg)
 
 ## Tải về cài đặt như bình thường ##
 
 **Có 2 cách kích hoạt, làm cách nào cũng được:**
 
 1. cài xong nạp [key tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_tk/EY6ttGA7Y7NPqBoJ4XcnulIBy1P32juvDSJ-js5MSgOejw?e=6tusm5)
-2. Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcrufC-RZyJEjitCLdiEzzIB6cT2OaOY4R0besZUrfPSMw?e=iLJChb) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\26
+2. Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcrufC-RZyJEjitCLdiEzzIB6cT2OaOY4R0besZUrfPSMw?e=iLJChb) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
 
 Restart lại máy tính là ok
 
@@ -72,21 +72,35 @@ Restart lại máy tính là ok
 
 **Bắt đầu cài đặt**
 
+1. Run File Setup:
+
 <img width="492" alt="1" src="https://user-images.githubusercontent.com/82578024/166176220-57c92ae3-73ee-471c-b148-869f883b7cf5.png">
 
-<img width="352" alt="2" src="https://user-images.githubusercontent.com/82578024/166176241-1750ac0b-b96a-42d2-b7f1-905eaf99b7c9.png">
+2. Click on Next:
 
-<img width="352" alt="3" src="https://user-images.githubusercontent.com/82578024/166176268-b60acc2d-5b2a-49db-b792-d83c73805580.png">
+![next](https://user-images.githubusercontent.com/82578024/167275439-ec58c042-5d15-4f7c-829d-d366e8bdb277.png)
 
-<img width="351" alt="4" src="https://user-images.githubusercontent.com/82578024/166176287-32c66e23-8d96-4067-b1e1-8947c71f0e43.png">
+3. Select  license agreement and click on Next
 
-<img width="352" alt="5" src="https://user-images.githubusercontent.com/82578024/166176300-daa4bc40-3f1f-4b12-ac40-3c2b026756e0.png">
+![next](https://user-images.githubusercontent.com/82578024/167275510-82ffb325-3511-4939-bfcf-e19f829a4abd.png)
 
-<img width="350" alt="6" src="https://user-images.githubusercontent.com/82578024/166176310-d1e4381a-0726-4009-8a65-15d43a4ea24d.png">
+4. Click Next to install in the default location
 
-<img width="351" alt="7" src="https://user-images.githubusercontent.com/82578024/166176320-c00bd30e-7e3e-40c5-8e95-22e0f07977fe.png">
+![next](https://user-images.githubusercontent.com/82578024/167275633-4c05aced-03cf-4119-aa00-2acd5e24f28b.png)
 
-<img width="352" alt="8" src="https://user-images.githubusercontent.com/82578024/166176336-810217d9-ef6e-4b80-af25-d1bd8b35ac16.png">
+5. Click on Install to begin the installation
+
+![next](https://user-images.githubusercontent.com/82578024/167275656-c56f4b7f-a63e-4c95-b3a3-9a6803237c08.png)
+
+6. Select Start SPSS License authorization Wizard  highlighed in the image and click on Finish
+
+![next](https://user-images.githubusercontent.com/82578024/167275676-b0dcdf54-7f50-4b6b-b906-97ae2a490c3c.png)
+
+7. Select the Second option: Concurrent user License highlighted in the image 
+
+![next](https://user-images.githubusercontent.com/82578024/167275696-e7aa01d0-8b04-44b2-8b4d-2d2bc5cf1064.png)
+
+**Kích hoạt SPSS 27 giống SPSS 26:**
 
 **Kích hoạt cách 1:**
 
