@@ -106,15 +106,19 @@ Restart lại máy tính là ok
 
 - **Nạp code:**
 
-![Picture1](https://user-images.githubusercontent.com/82578024/166202397-3aaf7565-79f3-4dd2-b302-9e22f6ca76ae.jpg)
+![1](https://user-images.githubusercontent.com/82578024/167287353-536b53d4-749e-4127-bbea-e3337c221c85.gif)
 
-![Picture2](https://user-images.githubusercontent.com/82578024/166202422-7d272c9b-561b-4d2e-afc0-9dab6e916801.jpg)
+![2](https://user-images.githubusercontent.com/82578024/167287363-7a36badc-fafa-46e2-9f49-f06cd47193ca.gif)
+
+![3](https://user-images.githubusercontent.com/82578024/167287368-0905e622-295f-4ae8-a5e5-5900bbd9f357.gif)
+
+![3b](https://user-images.githubusercontent.com/82578024/167287373-6a35c6c5-fc4c-4883-b09f-59544ef18ad4.gif)
 
 - **Hoặc nạp license key:**
 
-![Picture3](https://user-images.githubusercontent.com/82578024/166202441-9eb882a6-c06a-4954-98b9-f375e72a0204.jpg)
+![4](https://user-images.githubusercontent.com/82578024/167287388-d187cc09-8579-4762-ab4d-49f16e571c82.gif)
 
-![Picture4](https://user-images.githubusercontent.com/82578024/166202464-9b0a0952-9a8b-43b1-b525-c0615c3c11d9.jpg)
+![5](https://user-images.githubusercontent.com/82578024/167287395-d3a589ba-3826-447e-8ec0-a2085d1c5e3d.gif)
 
 **Kích hoạt cách 2:**
 
