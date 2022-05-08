@@ -29,9 +29,9 @@
 |**[SPSS 24](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ep6umM9FLiVFl4eY_mo5lGMBEMyqN3bMsyahaS3OLTW8Tw?e=1qHkck)**|x||
 |**[SPSS 23](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiFmqPfNqVZKlapXG6kD3XgB780P761_agJ4HcnbbqNdiQ?e=j8eksa)**|x||
 |**[SPSS 22](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmR5sST4LpVCqoID9-8xL3oB2aFjuASt34HGKuzbuq4ZKw?e=CwpKXK)**|x||
-|**[SPSS 21](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EojzUJez-9VIn4tlEz7uPBUBdvOebaV4Oq2QVG7MX_YWuQ?e=Lv0lfU)**|x||
-|**[SPSS 20](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EkIn1VLo01FIq0sP7soeOZQB_BC4XxY5talspCWmr-cDmw?e=8YAR5u)**|x||
-|**[SPSS 19](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EqnCAgrcTh9PntMzggHppWYBQHYalfkK8XLVCaZPsblvFA?e=J3Xlni)**|x||
+|**[SPSS 21](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EjDXQHndTrxFikMT-VkE3DsBWIjjJgGzVw0FhOM4XBNC2Q?e=WKqdML)**|x||
+|**[SPSS 20](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EioVzFRS5RZOiNcj1OCd68IBYr92BaYl8Deom1q7uU86kQ?e=3wbClm)**|x||
+|**[SPSS 19](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EgQSTP9JoblGsVuZB8Q9H6MBiwYD3xZSRZ0wmIk0hX7Jxw?e=4yC9x4)**|x||
 |**[SPSS 18](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVI5DaChUj9Kk2ut2DbHbHUBmYjs_zQwPX4ouZJmu6esXw?e=m8B1yt)**|x||
 
 **[Cách tạo file lservrc Crack SPSS version từ 20 đến 27](https://github.com/BsNgChiThanh/lservrc)**
@@ -208,7 +208,7 @@ Restart lại máy tính là ok
 
 ## TỪNG BƯỚC CHINH PHỤC SPSS VỚI FILE DATA SẴN CÓ: [cnss.sav](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EcGshQFCzphJoqBDVkMCOcMBlzjBeF6Jbzs4U2ZnSrRp3g?e=QDMHSn) ##
 
-Các bạn download file [cnss.sav](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EcGshQFCzphJoqBDVkMCOcMBlzjBeF6Jbzs4U2ZnSrRp3g?e=QDMHSn) về để tiến hành chinh phục.
+Các bạn download file [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) về để tiến hành chinh phục.
 
 ### I. GIỚI THIỆU:
 
