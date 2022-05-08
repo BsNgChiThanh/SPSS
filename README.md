@@ -456,7 +456,7 @@ Người ta muốn xét trẻ nhẹ cân ngoài theo giới tính trẻ mà còn
 
 Giả thuyết Ho: Tỉ lệ nhẹ cân sơ sinh là bằng với một nghiên cứu khác là 7% 
 
-Chúng ta sử dụng kiểm định ![1](https://user-images.githubusercontent.com/82578024/165897021-c84f59bf-413c-48eb-8397-8fc33f12ee91.jpg) (Chi-Square) một mẫu để so sánh tỉ lệ sơ sinh nhẹ cân trong nghiên cứu cnss.sav với tỉ lệ sơ sinh nhẹ cân trong một nghiên cứu khác.
+Chúng ta sử dụng kiểm định χ2 (Chi-Square) một mẫu để so sánh tỉ lệ sơ sinh nhẹ cân trong nghiên cứu cnss.sav với tỉ lệ sơ sinh nhẹ cân trong một nghiên cứu khác.
 
 1. Từ thanh menu lệnh chọn: **Analyse→NonparametricTest→LagacyDialogs→Chi-Square**
 
@@ -475,7 +475,7 @@ Một hộp thoại hiện ra:
 
 ![1](https://user-images.githubusercontent.com/82578024/165898586-3cc9f57d-ddf8-4b73-a304-9d99ed6746da.jpg)
 
-Phiên giải: Tỉ lệ sơ sinh nhẹ cân xấp xỉ 6% trong nghiên cứu cân nặng sơ sinh. Tỉ lệ này tương tự như tỉ lệ sơ sinh nhẹ cân ở một nghiên cứu khác, trong đó 7% trẻ sinh nhẹ cân ![1](https://user-images.githubusercontent.com/82578024/165898836-70233b4a-342c-45dc-9b37-b517b8df9d2e.jpg)
+Phiên giải: Tỉ lệ sơ sinh nhẹ cân xấp xỉ 6% trong nghiên cứu cân nặng sơ sinh. Tỉ lệ này tương tự như tỉ lệ sơ sinh nhẹ cân ở một nghiên cứu khác, trong đó 7% trẻ sinh nhẹ cân (χ2=1.473;P=0.225)
 
 5.1.5.2. So sánh tỉ lệ của 2 nhóm:
 
@@ -504,7 +504,7 @@ Kết quả:
 ![1](https://user-images.githubusercontent.com/82578024/165900365-d5fcc1b7-d30d-42e7-bd33-a225615cc2b0.jpg)
 
 Phiên giải: Có 6.4% trẻ gái sơ sinh nhẹ cân nhưng chỉ có 5.8% trẻ trai sơ sinh nhẹ cân. Tỉ suất chênh chỉ ra sự khác nhau của 2 tỉ lệ này là:
-OR=0.818 với khoản tin cậy: 95%(0.435-1.540) tuy nhiên sự khác biệt về tỉ lệ sơ sinh nhẹ cân của 2 nhóm không có ý nghĩa thống kê ![1](https://user-images.githubusercontent.com/82578024/165900763-54e00d71-9719-47a7-a408-d483cb091776.jpg)
+OR=0.818 với khoản tin cậy: 95%(0.435-1.540) tuy nhiên sự khác biệt về tỉ lệ sơ sinh nhẹ cân của 2 nhóm không có ý nghĩa thống kê (χ2=0.389;P=0.533)
 
 5.1.5.3. So sánh tỉ lệ của hơn nhiều nhóm:
 
@@ -516,7 +516,7 @@ Chúng ta sử dụng kiểm định khi bình phương để so sánh tỉ lệ
 
 ![1](https://user-images.githubusercontent.com/82578024/165901204-10644e78-0248-4528-b0b4-a2ce5aba2cc0.jpg)
 
-Phiên giải: Có tất cả 5.8% trẻ sơ sinh nhẹ cân, chúng không đủ bằng chứng để chỉ ra rằng tỉ lệ sơ sinh nhẹ cân khác nhau theo nhóm tuổi mẹ  ![1](https://user-images.githubusercontent.com/82578024/165901485-8bc6d0a0-92e9-4519-8f7a-cd4c11a9f309.jpg)
+Phiên giải: Có tất cả 5.8% trẻ sơ sinh nhẹ cân, chúng không đủ bằng chứng để chỉ ra rằng tỉ lệ sơ sinh nhẹ cân khác nhau theo nhóm tuổi mẹ (χ2=0.965;P=0.620)
 
 **5.2.	Làm việc với biến định lượng:**
 
