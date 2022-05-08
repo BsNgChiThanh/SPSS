@@ -44,7 +44,7 @@
 
 **Có 2 cách kích hoạt, làm cách nào cũng được:**
 
-1. cài xong nạp [key tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_tk/ETX_JEhz6w9GkqdhsdyFMSwBhoGeUGWF6Sy8nprfeWO8tQ?e=mhJxEo)
+1. cài xong nạp [key tại đây](https://bsthanh-my.sharepoint.com/:t:/g/personal/0914678254_bsthanh_tk/ETX_JEhz6w9GkqdhsdyFMSwBhoGeUGWF6Sy8nprfeWO8tQ?e=mhJxEo) (SPSS 27 đang cập nhật key, vui lòng chọn cách 2)
 2. Cài xong copy file [lservrc](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVxztiwCSsFMj3bPLYq-9ZsB8tWQM54VWvSr7AoRsKroMg?e=dg1kQD) vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
 
 Restart lại máy tính là ok
