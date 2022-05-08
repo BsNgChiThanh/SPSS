@@ -68,7 +68,7 @@ Restart lại máy tính là ok
 
 [Hướng dẫn sử dụng phần mềm SPSS bấm vào đây](https://bsthanh-my.sharepoint.com/:b:/g/personal/0914678254_bsthanh_tk/EZ9j5gox7xhKh5wrTcOSIFoB_YEwkyuQSxmVsnV63uPZYA?e=fAdJYX)
 
-### MỘT SỐ HÌNH ẢNH CÀI ĐẶT ###
+### CÀI ĐẶT SPSS 27 CỤ THỂ ###
 
 **Bắt đầu cài đặt**
 
