@@ -19,6 +19,16 @@
 | -- | -- | -- |
 |**[SPSS 28](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtIIqHAwOJhPh0YS9CFQdaABTM69xEI3b9Q4LXfDnt2vBg?e=h3SAlb)**|x|x|
 
+SPSS 28, 2 code kích hoạt dưới đây đã bị die!
+
+```php
+fd774ea8003a2621cfb7
+```
+
+```php
+d13d1c0ecc6b416626d6
+```
+
 **Các bản Crack thành công 100%, thời hạn sử dụng vĩnh viễn!!!**
 
 |Version Click vào để download|Windows|Mac|
