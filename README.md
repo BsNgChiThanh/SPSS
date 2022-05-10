@@ -130,6 +130,8 @@ Restart lại máy tính là ok
 
 <img width="541" alt="10 pas" src="https://user-images.githubusercontent.com/82578024/166176560-44ee9314-f080-4eaf-badd-3fdd2e29774d.png">
 
+https://user-images.githubusercontent.com/82578024/167623023-a5283bbc-c36c-46a1-be14-1c7b17e2b4c2.mp4
+
 ## HƯỚNG DẪN SỬ DỤNG SPSS TRONG NGHIÊN CỨU KHOA HỌC ([Lấy từ trang Phạm Lộc Blog](https://www.phamlocblog.com/)) ##
 
 ### Phần 1: Bảy thuật ngữ thống kê trong nghiên cứu: ###
