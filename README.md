@@ -13,26 +13,11 @@
 
 ![Doc1](https://user-images.githubusercontent.com/82578024/167115846-048e6e59-c5e5-4ff1-abe4-9c3d77e3b2de.jpg)
 
-**Bản dùng thử 30 ngày đã tải sẵn:**
-
-|Version Click vào để download|Windows|Mac|
-| -- | -- | -- |
-|**[SPSS 28](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtIIqHAwOJhPh0YS9CFQdaABTM69xEI3b9Q4LXfDnt2vBg?e=h3SAlb)**|x|x|
-
-SPSS 28, 2 code kích hoạt dưới đây đã bị die!
-
-```php
-fd774ea8003a2621cfb7
-```
-
-```php
-d13d1c0ecc6b416626d6
-```
-
 **Các bản Crack thành công 100%, thời hạn sử dụng vĩnh viễn!!!**
 
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
+|**[SPSS 28](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtIIqHAwOJhPh0YS9CFQdaABTM69xEI3b9Q4LXfDnt2vBg?e=h3SAlb)**|x|x|
 |**[SPSS 27](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtYbqtgC0yVChnOVx4lOJEwBQvxke0nTknq6CaXBQRFKMQ?e=becQFG)**|x|x|
 |**[SPSS 26](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EqjZGHyXOnlJvnN6QCgA0KkB73FDflwW4O43pQrKR1KKcA?e=qWsWnk)**|x|x|
 |**[SPSS 25](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhvRaxCXcExJuvsEbndv8DIBdBDEthreT7RSATXMREz9qg?e=aEIkaZ)**|x|x|
@@ -44,9 +29,21 @@ d13d1c0ecc6b416626d6
 |**[SPSS 19](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EgQSTP9JoblGsVuZB8Q9H6MBiwYD3xZSRZ0wmIk0hX7Jxw?e=4yC9x4)**|x||
 |**[SPSS 18](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVI5DaChUj9Kk2ut2DbHbHUBmYjs_zQwPX4ouZJmu6esXw?e=m8B1yt)**|x||
 
-**[Cách tạo file lservrc Crack SPSS version từ 20 đến 27](https://github.com/BsNgChiThanh/lservrc)**
+**[Cách tạo file lservrc Crack SPSS version từ 20 đến 28](https://github.com/BsNgChiThanh/lservrc)**
 
 # CÁCH CÀI ĐẶT #
+
+## `CÀI ĐẶT SPSS 28` ##
+
+![Picture1](https://user-images.githubusercontent.com/82578024/167837724-5e8a3dfb-438f-44c6-8ce5-72a6df028efa.jpg)
+
+**Code, key hay file lservrc điều để trong link download ở phía trên!**
+
+File lservrc nằm trong đường dẫn:
+
+```php
+C:\Program Files\IBM\SPSS Statistics
+```
 
 ## `CÀI ĐẶT SPSS 27` ##
 
