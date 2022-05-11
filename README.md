@@ -13,7 +13,7 @@
 
 ![Doc1](https://user-images.githubusercontent.com/82578024/167115846-048e6e59-c5e5-4ff1-abe4-9c3d77e3b2de.jpg)
 
-**Crack dùng đến 31/8/2022**
+**Crack SPSS 28 dùng đến 31/8/2022**
 
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
