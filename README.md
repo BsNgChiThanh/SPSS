@@ -422,9 +422,7 @@ Bấm **Ok** sẽ có kết quả sau:
 
 **Frequency Table**
 
-![1](https://user-images.githubusercontent.com/82578024/165875481-446b6b2a-a408-4d17-8f3d-a01817bc8184.jpg)
-
-![1](https://user-images.githubusercontent.com/82578024/165875598-4715f267-ffc9-4be8-b67d-ca430e80c070.jpg)
+![1](https://user-images.githubusercontent.com/82578024/168030684-0c8608d3-f5a8-4814-a2ad-a6f282acd662.png)
 
 5.1.2.	Biểu đồ cột:
 
@@ -459,7 +457,7 @@ Mô tả nhẹ cân sơ sinh theo giới tính thai nhi:
 
 4. Bấm **Continue** sau đó **Ok** là xong
 
-![1](https://user-images.githubusercontent.com/82578024/165895896-0fecfc11-022d-4382-be3e-898e1b89ef4a.png)
+![1](https://user-images.githubusercontent.com/82578024/168031763-1b6e1eec-1e30-42ab-b7ad-159b025cdcfd.png)
 
 5.1.4.	Phân tích tầng
 
