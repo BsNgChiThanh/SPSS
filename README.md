@@ -334,6 +334,9 @@ Một bộ câu hỏi hay một biểu mẫu số liệu được mã hoá dư�
 |4|	Nhập toàn bộ số liệu 1 lần, chọn ngẫu nhiên đơn khoảng 20% bộ số liệu, kiểm tra lại bằng mắt. Nếu những sự khác nhau là tối thiểu, dừng lại. Nếu không cần phải cân nhắc (2)|
 |5|	Nhập toàn bộ số liệu một lần, không kiểm tra hai lần. Không có đề nghị gì|
 
+#### Lưu ý: khi nhập liệu xong, đã ok rồi thì một điều cực kỳ quan trọng là file data số liệu này phải được lưu thành nhiều bản ở nhiều nơi khác nhau, vì khi vào xử lý số liệu đôi khi một lý do nào đó mà file số liệu của bạn bị thay đổi, bạn muốn phục hồi nó y nguyên trạng ban đầu cũng rất dễ dàng, nếu không bạn sẽ hối hận vì tốn công nhập liệu trở lại!!! ####
+
+
 **4.	Quản lý số liệu:**
 
 **a.	Tạo biến mới:**
