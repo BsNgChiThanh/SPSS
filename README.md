@@ -43,12 +43,10 @@
 
 ![Picture1](https://user-images.githubusercontent.com/82578024/167837724-5e8a3dfb-438f-44c6-8ce5-72a6df028efa.jpg)
 
-**Code, key hay file lservrc điều để trong link download ở phía trên!**
-
-File lservrc nằm trong đường dẫn:
+**Code SPSS 28, date: 31/8/2022**
 
 ```php
-C:\Program Files\IBM\SPSS Statistics
+ca5f076ad01a908aca85
 ```
 
 ## `CÀI ĐẶT SPSS 27` ##
