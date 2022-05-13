@@ -35,7 +35,7 @@
 |**[SPSS 19](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EgQSTP9JoblGsVuZB8Q9H6MBiwYD3xZSRZ0wmIk0hX7Jxw?e=4yC9x4)**|x||
 |**[SPSS 18](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVI5DaChUj9Kk2ut2DbHbHUBmYjs_zQwPX4ouZJmu6esXw?e=m8B1yt)**|x||
 
-**[Cách tạo file lservrc Crack SPSS version từ 20 đến 28](https://github.com/BsNgChiThanh/lservrc)**
+**[Cách tạo file lservrc Crack SPSS version từ 20 đến 27](https://github.com/BsNgChiThanh/lservrc)**
 
 # CÁCH CÀI ĐẶT #
 
