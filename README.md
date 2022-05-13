@@ -49,7 +49,7 @@
 ca5f076ad01a908aca85
 ```
 
-## `CÀI ĐẶT SPSS 27` ##
+## `CÀI ĐẶT SPSS 27 (Bản sử dụng vĩnh viễn)` ##
 
 ![base27-largest-1-1](https://user-images.githubusercontent.com/82578024/167275319-22bf9c9c-5604-401b-a3ef-bf91498c41d6.jpg)
 
