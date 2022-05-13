@@ -19,6 +19,11 @@
 | -- | -- | -- |
 |**[SPSS 28](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtIIqHAwOJhPh0YS9CFQdaABTM69xEI3b9Q4LXfDnt2vBg?e=h3SAlb)**|x|x|
 
+## Giải pháp dùng thử ##
+
+**Khi bạn không có code kích hoạt SPSS bạn hãy tạo cho mình 12 tài khoản IBM SPSS, mổi tháng bạn đăng nhập 1 tài khoản, xem như bạn đã sử dụng 1 năm miễn phí SPSS bản mới nhất! cho đến khi bạn tìm được một code kích hoạt mới. Trân trọng!**
+
+**[Xem video kích hoạt bản dùng thử mới nhất SPSS](https://youtu.be/xo-FsZhMheY)**
 
 **Các bản Crack thành công 100%, thời hạn sử dụng vĩnh viễn!!!**
 
