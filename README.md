@@ -205,7 +205,7 @@ https://user-images.githubusercontent.com/82578024/167623023-a5283bbc-c36c-46a1-
 
 [Xem video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/ERGsApx6zL9PpXTdsCC5X-AB-AhItEwCw8Lr7Gnt4KF3vQ?e=BJMQEl)
 
-### Phân tích hồi qui đa biến ###
+### Phần7: Phân tích hồi qui đa biến ###
 
 1. Nhiệm vụ của hồi qui đa biến
 2. Cách thực hiện hồi qui đa biến trên SPSS
@@ -213,7 +213,7 @@ https://user-images.githubusercontent.com/82578024/167623023-a5283bbc-c36c-46a1-
 
 [Xem Video](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/Eci8KqHhmedJsoIJteTyztgBKaPKE_em9I9RDTgF4iwEnA?e=iG0rbN)
 
-### Kiểm định ANOVA, T-Test ##
+### Phần 8: Kiểm định ANOVA, T-Test ##
 
 1. Trường hợp nào sử dụng ANOVA, trường hợp nào sử dụng T-Test
 2. Cách thực hiện và một số lưu ý
@@ -224,7 +224,7 @@ https://user-images.githubusercontent.com/82578024/167623023-a5283bbc-c36c-46a1-
 
 [Xem Video Phân tích Independent Sample T-Test trên SPSS](https://bsthanh-my.sharepoint.com/:v:/g/personal/0914678254_bsthanh_tk/EXe1CGmaWC1GjLlWwStznBABb9q-2B7Hz9KNpDoc9nPWHA?e=bKZdmR)
 
-## TỪNG BƯỚC CHINH PHỤC SPSS VỚI FILE DATA SẴN CÓ: [cnss.sav](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EcGshQFCzphJoqBDVkMCOcMBlzjBeF6Jbzs4U2ZnSrRp3g?e=QDMHSn) ##
+## TỪNG BƯỚC CHINH PHỤC SPSS VỚI FILE DATA MẪU: [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) ##
 
 Các bạn download file [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) về để tiến hành chinh phục.
 
