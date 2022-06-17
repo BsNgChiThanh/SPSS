@@ -13,7 +13,7 @@
 
 ![Doc1](https://user-images.githubusercontent.com/82578024/167115846-048e6e59-c5e5-4ff1-abe4-9c3d77e3b2de.jpg)
 
-**SPSS 28: **
+**SPSS 28:**
 
 Chỉ có code kích hoạt đến 31/8/2022, khi tìm được code mới tôi sẽ update cho các bạn!
 
