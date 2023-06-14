@@ -982,6 +982,4 @@ Cân nặng sơ sinh có mối liên quan một cách có ý nghĩa thống kê 
 
 **[Chia sẻ Google map](https://maps.app.goo.gl/wmAPRFYyF3nNeHd87)**
 
-![đại bàng](https://user-images.githubusercontent.com/82578024/166880683-8963d9b1-1619-47bf-8894-4023766e5953.jpg)
-
 ## [BẤM VÀO ĐÂY, NẾU MUỐN ỦNG HỘ SỰ HOẠT ĐỘNG CỦA KÊNH](https://me.momo.vn/OeIRuaTbfqsmFyiataCM/MvbmqGVrVjLpbYA) ##
