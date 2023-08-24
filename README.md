@@ -1,5 +1,5 @@
 # SPSS #
-#### Written by BsCK1. Nguyen Chi Thanh, **[Telegram group](https://t.me/+hBZ3F71j8OIxODFl)** ####
+#### Written by BsCK1. Nguyen Chi Thanh ####
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743729-a4479f9f-5167-4fed-8532-aae385e91660.jpg)
 
