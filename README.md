@@ -27,6 +27,7 @@ ca5f076ad01a908aca85
 
 |Version Click vào để download|Windows|Mac|
 | -- | -- | -- |
+|**[SPSS 29](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EgaTq9YQU8VDvye4mPKpsO0BfMm81qG6Sp0frpnLTx_6kw?e=OQRGj6)**|x|x|
 |**[SPSS 28](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EtIIqHAwOJhPh0YS9CFQdaABTM69xEI3b9Q4LXfDnt2vBg?e=h3SAlb)**|x|x|
 
 ## Giải pháp dùng thử ##
