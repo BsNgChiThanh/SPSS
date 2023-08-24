@@ -13,7 +13,7 @@
 
 ![image](https://github.com/BsNgChiThanh/SPSS/assets/82578024/c7c78e27-9929-4da4-98c0-93e81a4e9a96)
 
-![image](https://github.com/BsNgChiThanh/SPSS/assets/82578024/febcf60a-0974-48e6-9420-d8baf0c98631)
+![image](https://github.com/BsNgChiThanh/SPSS/assets/82578024/f4bc1b98-5607-4c22-8208-670a608c0b98)
 
 **SPSS 28:**
 
