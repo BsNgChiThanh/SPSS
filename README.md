@@ -11,9 +11,9 @@
 
 **Để sử dụng được bản dùng thử 30 ngày, bạn vào trang chủ đăng kí tài khoản SPSS, download bản dùng thử về, cài đặt để trải nghiệm, [bấm vào đây](https://www.ibm.com/spss)**
 
-![Screenshot 2022-05-05 082259](https://user-images.githubusercontent.com/82578024/166851507-279da110-ff38-408a-9485-895960c5690b.png)
+![image](https://github.com/BsNgChiThanh/SPSS/assets/82578024/c7c78e27-9929-4da4-98c0-93e81a4e9a96)
 
-![Doc1](https://user-images.githubusercontent.com/82578024/167115846-048e6e59-c5e5-4ff1-abe4-9c3d77e3b2de.jpg)
+![image](https://github.com/BsNgChiThanh/SPSS/assets/82578024/febcf60a-0974-48e6-9420-d8baf0c98631)
 
 **SPSS 28:**
 
