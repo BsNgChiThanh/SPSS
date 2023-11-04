@@ -237,7 +237,7 @@ https://user-images.githubusercontent.com/82578024/167623023-a5283bbc-c36c-46a1-
 
 ## TỪNG BƯỚC CHINH PHỤC SPSS VỚI FILE DATA MẪU: [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) ##
 
-Các bạn download file [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) về để tiến hành chinh phục.
+Các bạn download file [cnss.sav](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaTnr1_Nv-tNvAvWqhWPYNwBvhlmiU24e5tgnrgyhfSs8A?e=be7Ube) hoặc https://raw.githubusercontent.com/BsNgChiThanh/SPSS/IMP/cnss.sav về để tiến hành chinh phục.
 
 ### I. GIỚI THIỆU:
 
